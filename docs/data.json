@@ -1,0 +1,705 @@
+{
+  "transferegov": {
+    "geradoEm": "2026-09-22",
+    "municipio": "Junqueirópolis",
+    "ibge": 3526001,
+    "totalProgramasAbertos": 18,
+    "valorHistoricoCaptado": 1459961.0,
+    "oportunidades": [
+      {
+        "idPrograma": 12,
+        "cdPrograma": "2025 - 00005",
+        "nmPrograma": "FIRECE",
+        "nmEnteRepassador": "FUNDO DE APOIO A INFRAESTRUTURA PARA RECUPERACAO E ADAPTACAO A EVENTOS CLIMATICOS EXTREMOS - FIRECE",
+        "tpInstrumento": "Fundo com Finalidade Específica",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/12",
+        "captacaoInicio": "2025-09-01",
+        "captacaoFim": "2026-08-31",
+        "condicionantes": [
+          "a) Documentos de engenharia, inclusive estimativa de custos, ARTs e RRTs",
+          "b) Declaração do Chefe do Poder Executivo, de que o Ente Executor detém a posse da área objeto da intervenção",
+          "c) Declaração assumindo a responsabilidade pela obtenção das licenças e aprovações de projetos",
+          "d) Declaração sobre a sustentabilidade do objeto"
+        ],
+        "anexos": [
+          "RESOLUÇÃO Nº 4, DE 25 DE ABRIL DE 2025"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: FIRECE\nCÓDIGO: 2025 - 00005\nÓRGÃO REPASSADOR: FUNDO DE APOIO A INFRAESTRUTURA PARA RECUPERACAO E ADAPTACAO A EVENTOS CLIMATICOS EXTREMOS - FIRECE\nINSTRUMENTO: Fundo com Finalidade Específica\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/12\n\nJANELA DE CAPTAÇÃO: 2025-09-01 a 2026-08-31\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nTem por finalidade apoiar a requalificação e recuperação de infraestruturas em áreas afetadas por eventos climáticos extremos, além de apoiar empreendimentos de infraestrutura relacionados à mitigação e adaptação às mudanças climáticas.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nRedução dos impactos causados pelos eventos climáticos extremos.\n\n4. PÚBLICO-ALVO\nEstados e municípios afetados por eventos climáticos extremos.\n\n5. RESULTADO ESPERADO\nApoiar empreendimentos de infraestrutura relacionados à mitigação e adaptação às mudanças climáticas.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n- a) Documentos de engenharia, inclusive estimativa de custos, ARTs e RRTs\n- b) Declaração do Chefe do Poder Executivo, de que o Ente Executor detém a posse da área objeto da intervenção\n- c) Declaração assumindo a responsabilidade pela obtenção das licenças e aprovações de projetos\n- d) Declaração sobre a sustentabilidade do objeto\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- RESOLUÇÃO Nº 4, DE 25 DE ABRIL DE 2025\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 97,
+        "cdPrograma": "2025 - 00090",
+        "nmPrograma": "Pronon - Formação, Capacitação e Aperfeiçoamento de Recursos Humanos",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/97",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "MODELO DE ORÇAMENTO   ",
+          "DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA",
+          "FORMULÁRIO DE APRESENTAÇÃO DE PROJETO ",
+          "DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   ",
+          "REQUERIMENTO DE HABILITAÇÃO"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronon - Formação, Capacitação e Aperfeiçoamento de Recursos Humanos\nCÓDIGO: 2025 - 00090\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/97\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pacientes oncológicos, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico e tratamento das pessoas com câncer.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoas que demandem de atenção oncológica.\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de atenção oncológica; contribuir para a ampliação do acesso às ações e serviços de de atenção oncológica.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- MODELO DE ORÇAMENTO   \n- DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA\n- FORMULÁRIO DE APRESENTAÇÃO DE PROJETO \n- DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   \n- REQUERIMENTO DE HABILITAÇÃO\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 9,
+        "cdPrograma": "2025 - 00002",
+        "nmPrograma": "Multa Ambiental - Gestão de Resíduos Sólidos em Consórcios Públicos de MG",
+        "nmEnteRepassador": "Ministério do Meio Ambiente",
+        "tpInstrumento": "Multa Ambiental - Acordo de Implementação",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/9",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [
+          "I. Os recursos somente serão liberados e a transferência dos mesmos somente ocorrerá após o término do prazo previsto no inciso VI, alínea \"a\", do art. 73 da Lei n° 9.504/97;",
+          "I.\tEnvio da proposta para análise via Transferegov.br até 23h59 da data limite para envio das propostas, que é 180 (cento e oitenta) dias corridos a serem contados da data de publicação deste Edital no Diário Oficial da União;",
+          "II.\tInexistência nas propostas de despesas com temáticas e itens não financiáveis previstos na legislação e neste Edital, conforme disposto nos itens 3.2 e 3.6;",
+          "III.\tA proposta não foi apresentada por consórcios públicos municipais que possuam contrato de concessão do serviço público de manejo de resíduos sólidos urbanos;",
+          "IV.\tO valor de cada projeto deverá ser no mínimo de R$ 4.000.000,00 (quatro milhões de reais) e no máximo de R$ 10.000.000,00 (dez milhões de reais);",
+          "V.\tApresentação do contrato de consórcio de direito público com a indicação dos municípios integrantes do consórcio público, assim como a finalidade de atuação na gestão de resíduos sólidos;",
+          "VI.\tApresentação do(s) plano(s) de resíduos sólidos referencial(is) do projeto. Para fins de atendimento deste critério, serão aceitos os planos de resíduos sólidos previstos no Art. 14, IV e V da Lei nº 12.305/2010;",
+          "VII.\tA sede do consórcio público municipal deverá obrigatoriamente estar situada no estado de Minas Gerais, assim como a maioria de seus municípios integrantes;",
+          "VIII.\tApresentação do Anexo V - Termo de Compromisso de Encerramento de Lixões assinado pelo representante do Consórcio Público;",
+          "II.\tNo caso de execução de obras, que sejam realizadas em terrenos em que o proponente ou um de seus municípios consorciados tenha plenos poderes inerentes à sua propriedade;",
+          "III.\tNo caso de unidades a serem instaladas ou beneficiadas pelo projeto, que seja obtida a documentação de regularidade ambiental pertinente, inclusive a dispensa de licenciamento ambiental quando couber, junto aos órgãos ambientais competentes.",
+          "IX.\tApresentação do Anexo VI – Indicação dos municípios beneficiários do projeto, assinado pelo representante do Consórcio Público. Ressalta-se que não é obrigatório contemplar todos os municípios do consórcio."
+        ],
+        "anexos": [
+          "Portaria MMA n° 20 de 14 de janeiro de 2021",
+          "Acordo Substitutivo de Multa Ambiental nº 1-2020",
+          "Modelo - ANEXO V - TERMO DE COMPROMISSO DE ENCERRAMENTO DE LIXOES",
+          "Modelo - ANEXO IV- ORIENTACOES PARA A CLASSIFICACAO DE DESPESAS",
+          "Modelo - ANEXO III - ORÇAMENTO DETALHADO POR META_ETAPA",
+          "Modelo - ANEXO II - DECLARAÇÃO DE CAPACIDADE TÉCNICA E GERENCIAL",
+          "Modelo - ANEXO VI - Indicação dos municipios beneficiários do projeto",
+          "ANEXO I - MANUAL DE ELABORAÇÃO DE PROPOSTAS",
+          "Edital de Chamamento_Publico_SQA_n_01-2024_2ª retificacao_11-04-2025",
+          "Edital de Chamamento_Publico_SQA_n_01-2024_3ª retificacao_09-06-2025"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Multa Ambiental - Gestão de Resíduos Sólidos em Consórcios Públicos de MG\nCÓDIGO: 2025 - 00002\nÓRGÃO REPASSADOR: Ministério do Meio Ambiente\nINSTRUMENTO: Multa Ambiental - Acordo de Implementação\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/9\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nO programa tem como objeto a seleção de propostas que contemplem a execução dos programas, projetos e ações dos planos de resíduos sólidos apresentados pelos proponentes, para a melhoria da gestão de resíduos sólidos em seus territórios, em conformidade com as temáticas financiáveis indicadas no capítulo 3 do Edital, a serem executados por consórcios públicos situados no estado de Minas Gerais.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nEste programa visa disponibilizar recursos provenientes de multa ambiental para a mitigar ou solucionar os problemas ambientais, sociais e econômicos decorrentes da destinação inadequada de resíduos sólidos erm municípios de Minas Gerais.Para isso, o Edital de Chamamento Público SQA nº 01/2024 elenca as seguintes temáticas financiáveis:1 - Coleta seletiva de resíduos recicláveis secos e/ou orgânicos;2 - Triagem e beneficiamento de resíduos recicláveis;3 - Transbordo para unidades de destinação ambientalmente adequada de resíduos;4 - Estruturação e fortalecimento de associações, cooperativas ou outras formas de organização de catadoras e catadores;5 - Estudos e projetos para inclusão de catadores autônomos em ações conjuntas com organizações de catadores, prefeituras ou outros arranjos;6 - Ações de prevenção ao desperdício de alimentos;7 - Reciclagem da fração orgânica dos resíduos sólidos urbanos (compostagem e/ou biodigestão anaeróbica), incluindo o fomento à agricultura urbana e periurbana;8 - Coleta e reciclagem de resíduos da construção civil (RCC).\n\n4. PÚBLICO-ALVO\nConsórcios Públicos Municipais com finalidade de gestão de resíduos sólidos, situados no estado de Minas Gerais\n\n5. RESULTADO ESPERADO\nOs resultados esperados das propostas devem descrever o cenário futuro que se espera com a execução do projeto. Se no campo “problema a ser resolvido” da proposta o proponente informou corretamente a situação enfrentada e demonstrou com dados a situação existente, nos resultados esperados deve ser informado qual a melhora esperada em relação ao problema. O problema será totalmente resolvido com a execução do projeto? Ou existirá uma diminuição porcentual do problema informado? De quanto será essa melhora esperada? Deve-se descrever os benefícios, de preferência de forma quantitativa.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n- I. Os recursos somente serão liberados e a transferência dos mesmos somente ocorrerá após o término do prazo previsto no inciso VI, alínea \"a\", do art. 73 da Lei n° 9.504/97;\n- I.\tEnvio da proposta para análise via Transferegov.br até 23h59 da data limite para envio das propostas, que é 180 (cento e oitenta) dias corridos a serem contados da data de publicação deste Edital no Diário Oficial da União;\n- II.\tInexistência nas propostas de despesas com temáticas e itens não financiáveis previstos na legislação e neste Edital, conforme disposto nos itens 3.2 e 3.6;\n- III.\tA proposta não foi apresentada por consórcios públicos municipais que possuam contrato de concessão do serviço público de manejo de resíduos sólidos urbanos;\n- IV.\tO valor de cada projeto deverá ser no mínimo de R$ 4.000.000,00 (quatro milhões de reais) e no máximo de R$ 10.000.000,00 (dez milhões de reais);\n- V.\tApresentação do contrato de consórcio de direito público com a indicação dos municípios integrantes do consórcio público, assim como a finalidade de atuação na gestão de resíduos sólidos;\n- VI.\tApresentação do(s) plano(s) de resíduos sólidos referencial(is) do projeto. Para fins de atendimento deste critério, serão aceitos os planos de resíduos sólidos previstos no Art. 14, IV e V da Lei nº 12.305/2010;\n- VII.\tA sede do consórcio público municipal deverá obrigatoriamente estar situada no estado de Minas Gerais, assim como a maioria de seus municípios integrantes;\n- VIII.\tApresentação do Anexo V - Termo de Compromisso de Encerramento de Lixões assinado pelo representante do Consórcio Público;\n- II.\tNo caso de execução de obras, que sejam realizadas em terrenos em que o proponente ou um de seus municípios consorciados tenha plenos poderes inerentes à sua propriedade;\n- III.\tNo caso de unidades a serem instaladas ou beneficiadas pelo projeto, que seja obtida a documentação de regularidade ambiental pertinente, inclusive a dispensa de licenciamento ambiental quando couber, junto aos órgãos ambientais competentes.\n- IX.\tApresentação do Anexo VI – Indicação dos municípios beneficiários do projeto, assinado pelo representante do Consórcio Público. Ressalta-se que não é obrigatório contemplar todos os municípios do consórcio.\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- Portaria MMA n° 20 de 14 de janeiro de 2021\n- Acordo Substitutivo de Multa Ambiental nº 1-2020\n- Modelo - ANEXO V - TERMO DE COMPROMISSO DE ENCERRAMENTO DE LIXOES\n- Modelo - ANEXO IV- ORIENTACOES PARA A CLASSIFICACAO DE DESPESAS\n- Modelo - ANEXO III - ORÇAMENTO DETALHADO POR META_ETAPA\n- Modelo - ANEXO II - DECLARAÇÃO DE CAPACIDADE TÉCNICA E GERENCIAL\n- Modelo - ANEXO VI - Indicação dos municipios beneficiários do projeto\n- ANEXO I - MANUAL DE ELABORAÇÃO DE PROPOSTAS\n- Edital de Chamamento_Publico_SQA_n_01-2024_2ª retificacao_11-04-2025\n- Edital de Chamamento_Publico_SQA_n_01-2024_3ª retificacao_09-06-2025\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 3,
+        "cdPrograma": "2024 - 00003",
+        "nmPrograma": "Pronas/PCD - Realização de pesquisas clínicas, epidemiológicas, experimentais e socioantropológicas",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/3",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS",
+          "ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA",
+          "ANEXO 3 - DESCRIÇÃO DO PROJETO",
+          "RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS",
+          "RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS",
+          "FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronas/PCD - Realização de pesquisas clínicas, epidemiológicas, experimentais e socioantropológicas\nCÓDIGO: 2024 - 00003\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/3\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pessoas com deficiência, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico, tratamento, reabilitação, ou habilitação de pessoas com deficiência.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoa com deficiência\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de prevenção e reabilitação das pessoas com deficiência;Contribuir para a ampliação do acesso às ações e serviços de atenção integral à saúde da pessoa com deficiência.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS\n- ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA\n- ANEXO 3 - DESCRIÇÃO DO PROJETO\n- RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS\n- RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS\n- FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 7,
+        "cdPrograma": "2024 - 00007",
+        "nmPrograma": "Lei de Incentivo à Reciclagem",
+        "nmEnteRepassador": "Ministério do Meio Ambiente",
+        "tpInstrumento": "Lei de Incentivo à Reciclagem - Declaração de Responsabilidade",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/7",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "Orientações para resultados esperados e seus indicadores",
+          "Orientação para preencher código de classificação de despesa",
+          "Modelo de declaração de inexistencia de sobreposição de recursos",
+          "Modelo de comprovação da Capacidade tecnica"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Lei de Incentivo à Reciclagem\nCÓDIGO: 2024 - 00007\nÓRGÃO REPASSADOR: Ministério do Meio Ambiente\nINSTRUMENTO: Lei de Incentivo à Reciclagem - Declaração de Responsabilidade\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/7\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nO objetivo da LIR (Lei de Incentivo à Reciclagem) é fomentar o desenvolvimento sustentável e a economia circular por meio do incentivo a projetos que promovam a reciclagem, o reúso de materiais e a responsabilidade compartilhada pelo ciclo de vida dos produtos. A LIR busca estimular a capacitação, formação e assessoria técnica, a incubação de empreendimentos, a realização de pesquisas e estudos, a implantação de infraestrutura física, a aquisição de equipamentos e veículos, a organização de redes de comercialização, o fortalecimento da participação de catadores e o desenvolvimento de novas tecnologias. Esses esforços visam fortalecer a cadeia produtiva da reciclagem, promover a inclusão social, gerar emprego e renda, e reduzir os impactos ambientais, incentivando a participação de empresas, cooperativas, associações e organizações sociais no setor.Diretrizes da Lei de Incentivo à Reciclagem1.\tFomento à Cadeia Produtiva da ReciclagemPromover o desenvolvimento da cadeia produtiva da reciclagem, abrangendo todas as etapas do processo, desde a geração, segregação, coleta, transporte, beneficiamento e transformação industrial até a conscientização social, com o objetivo de fortalecer a economia circular e reduzir os impactos ambientais.2.\tCapacitação e Formação TécnicaIncentivar projetos que promovam a capacitação, formação e assessoria técnica para diferentes setores, como áreas acadêmicas, empresariais, cooperativas e organizações sociais, com foco na promoção de atividades de reciclagem e reúso de materiais.3.\tIncentivo à Incubação de EmpreendimentosApoiar a criação e o fortalecimento de microempresas, pequenas empresas, cooperativas e empreendimentos sociais solidários que atuem na reciclagem, por meio de incubação e suporte técnico-administrativo.4.\tResponsabilidade CompartilhadaEstimular pesquisas, estudos e ações que promovam a responsabilidade compartilhada pelo ciclo de vida dos produtos, incluindo a aplicação de recursos em projetos que demonstrem adicionalidade em relação às metas de logística reversa.5.\tFortalecimento da Participação dos CatadoresPromover a inclusão social e o fortalecimento da participação de catadores de materiais reutilizáveis e recicláveis nas cadeias de reciclagem, por meio de apoio técnico, organizacional e financeiro.6.\tIncentivos Fiscais e Transparência na Gestão de RecursosOferecer incentivos fiscais, como deduções no imposto de renda para pessoas físicas e jurídicas tributadas com base no lucro real, para apoiar projetos previamente aprovados pelo Ministério do Meio Ambiente. Garantir a transparência na gestão dos recursos captados, com prestação de contas obrigatória e monitoramento contínuo.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar os investimentos e estimular a cadeia produtiva da reciclagem, com vistas a fomentar o uso de matérias-primas e de insumos de materiais recicláveis e reciclados.\n\n4. PÚBLICO-ALVO\nPortaria n° 1250/24Art. 5º O envio de propostas é permitido a:I - Empreendimentos de Catadores de Materiais Recicláveis,II - Instituições de Ensino e Pesquisa e de Ciência e Tecnologia,III - Condomínios Edilícios,IV - Organizações da Sociedade Civil de Interesse Público - Oscip;V - Organizações da Sociedade Civil - OSC;VI - Órgãos Públicos, Consórcios Públicos, Autarquias, Fundações Públicas, entre outras desta natureza; eVII - Empresas de porte classificada nas categorias de Microempresa e Pequena Empresas segundo o art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006.\n\n5. RESULTADO ESPERADO\n(não informado pela fonte)\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- Orientações para resultados esperados e seus indicadores\n- Orientação para preencher código de classificação de despesa\n- Modelo de declaração de inexistencia de sobreposição de recursos\n- Modelo de comprovação da Capacidade tecnica\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 2,
+        "cdPrograma": "2024 - 00002",
+        "nmPrograma": "Pronas/PCD - Formação, treinamento e aperfeiçoamento de recursos humanos em todos os níveis",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/2",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [
+          "Portaria de Credenciamento"
+        ],
+        "anexos": [
+          "ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS",
+          "ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA",
+          "ANEXO 3 - DESCRIÇÃO DO PROJETO",
+          "RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS",
+          "RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS",
+          "FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronas/PCD - Formação, treinamento e aperfeiçoamento de recursos humanos em todos os níveis\nCÓDIGO: 2024 - 00002\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/2\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pessoas com deficiência, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico, tratamento, reabilitação, ou habilitação de pessoas com deficiência.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoa com deficiência\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de prevenção e reabilitação das pessoas com deficiência;Contribuir para a ampliação do acesso às ações e serviços de atenção integral à saúde da pessoa com deficiência.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n- Portaria de Credenciamento\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS\n- ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA\n- ANEXO 3 - DESCRIÇÃO DO PROJETO\n- RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS\n- RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS\n- FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 101,
+        "cdPrograma": "2025 - 00094",
+        "nmPrograma": "Pronas/PCD - Realização de pesquisas clínicas, epidemiológicas e experimentais",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/101",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "MODELO DE ORÇAMENTO   ",
+          "DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA",
+          "FORMULÁRIO DE APRESENTAÇÃO DE PROJETO ",
+          "DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   ",
+          "REQUERIMENTO DE HABILITAÇÃO"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronas/PCD - Realização de pesquisas clínicas, epidemiológicas e experimentais\nCÓDIGO: 2025 - 00094\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/101\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pessoas com deficiência, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico, tratamento, reabilitação, ou habilitação de pessoas com deficiência.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoa com deficiência.\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de prevenção e reabilitação das pessoas com deficiência; contribuir para a ampliação do acesso às ações e serviços de atenção integral à saúde da pessoa com deficiência.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- MODELO DE ORÇAMENTO   \n- DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA\n- FORMULÁRIO DE APRESENTAÇÃO DE PROJETO \n- DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   \n- REQUERIMENTO DE HABILITAÇÃO\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 96,
+        "cdPrograma": "2025 - 00089",
+        "nmPrograma": "Pronon - Prestação de Serviços Médico-Assistenciais",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/96",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "MODELO DE ORÇAMENTO   ",
+          "DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA",
+          "FORMULÁRIO DE APRESENTAÇÃO DE PROJETO   ",
+          "DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   ",
+          "REQUERIMENTO DE HABILITAÇÃO"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronon - Prestação de Serviços Médico-Assistenciais\nCÓDIGO: 2025 - 00089\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/96\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pacientes oncológicos, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico e tratamento das pessoas com câncer.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoas que demandem de atenção oncológica.\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de atenção oncológica; contribuir para a ampliação do acesso às ações e serviços de de atenção oncológica.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- MODELO DE ORÇAMENTO   \n- DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA\n- FORMULÁRIO DE APRESENTAÇÃO DE PROJETO   \n- DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   \n- REQUERIMENTO DE HABILITAÇÃO\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 99,
+        "cdPrograma": "2025 - 00092",
+        "nmPrograma": "Pronas/PCD - Prestação de serviços médico-assistenciais",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/99",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "MODELO DE ORÇAMENTO",
+          "DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA",
+          "FORMULÁRIO DE APRESENTAÇÃO DE PROJETO ",
+          "DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   ",
+          "REQUERIMENTO DE HABILITAÇÃO"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronas/PCD - Prestação de serviços médico-assistenciais\nCÓDIGO: 2025 - 00092\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/99\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pessoas com deficiência, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico, tratamento, reabilitação, ou habilitação de pessoas com deficiência.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoa com deficiência.\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de prevenção e reabilitação das pessoas com deficiência; Contribuir para a ampliação do acesso às ações e serviços de atenção integral à saúde da pessoa com deficiência.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- MODELO DE ORÇAMENTO\n- DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA\n- FORMULÁRIO DE APRESENTAÇÃO DE PROJETO \n- DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   \n- REQUERIMENTO DE HABILITAÇÃO\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 1,
+        "cdPrograma": "2024 - 00001",
+        "nmPrograma": "Pronas/PCD - Serviços médico-assistenciais",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/1",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [
+          "Portaria de Credenciamento da Instituição ao Programa"
+        ],
+        "anexos": [
+          "ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS",
+          "ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA",
+          "ANEXO 3 - DESCRIÇÃO DO PROJETO",
+          "RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS",
+          "RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS",
+          "FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronas/PCD - Serviços médico-assistenciais\nCÓDIGO: 2024 - 00001\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/1\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pessoas com deficiência, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico, tratamento, reabilitação, ou habilitação de pessoas com deficiência.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoa com deficiência\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de prevenção e reabilitação das pessoas com deficiência;Contribuir para a ampliação do acesso às ações e serviços de atenção integral à saúde da pessoa com deficiência.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n- Portaria de Credenciamento da Instituição ao Programa\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS\n- ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA\n- ANEXO 3 - DESCRIÇÃO DO PROJETO\n- RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS\n- RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS\n- FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 98,
+        "cdPrograma": "2025 - 00091",
+        "nmPrograma": "Pronon - Realização de pesquisas clínicas, epidemiológicas e experimentais",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/98",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "REQUERIMENTO DE HABILITAÇÃO",
+          "FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "MODELO DE ORÇAMENTO   ",
+          "DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA",
+          "FORMULÁRIO DE APRESENTAÇÃO DE PROJETO   ",
+          "DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   "
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronon - Realização de pesquisas clínicas, epidemiológicas e experimentais\nCÓDIGO: 2025 - 00091\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/98\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pacientes oncológicos, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico e tratamento das pessoas com câncer.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoas que demandem de atenção oncológica.\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de atenção oncológica; contribuir para a ampliação do acesso às ações e serviços de de atenção oncológica.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- REQUERIMENTO DE HABILITAÇÃO\n- FORMULÁRIO PARA PROPOSTAS QUE PREVEEM A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- MODELO DE ORÇAMENTO   \n- DECLARAÇÃO DE CAPACIDADE TÉCNICO-OPERATIVA\n- FORMULÁRIO DE APRESENTAÇÃO DE PROJETO   \n- DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA   \n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 100,
+        "cdPrograma": "2025 - 00093",
+        "nmPrograma": "Pronas/PCD - Formação, qualificação e aperfeiçoamento de recursos humanos em todos os níveis de atenção",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/100",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "Formulário de informações complementares para propostas que preveem a aquisição de equipamentos e materiais permanentes no âmbito do Pronon e do Pronas/PCD.",
+          "Modelo de Orçamento",
+          "Declaração de capacidade técnico-operativa",
+          "Formulário de apresentação de projetos",
+          "Declaração de Ciência e Concordância",
+          "REQUERIMENTO DE HABILITAÇÃO"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronas/PCD - Formação, qualificação e aperfeiçoamento de recursos humanos em todos os níveis de atenção\nCÓDIGO: 2025 - 00093\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/100\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pessoas com deficiência, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico, tratamento, reabilitação, ou habilitação de pessoas com deficiência.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoa com deficiência.\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de prevenção e reabilitação das pessoas com deficiência; contribuir para a ampliação do acesso às ações e serviços de atenção integral à saúde da pessoa com deficiência.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- Formulário de informações complementares para propostas que preveem a aquisição de equipamentos e materiais permanentes no âmbito do Pronon e do Pronas/PCD.\n- Modelo de Orçamento\n- Declaração de capacidade técnico-operativa\n- Formulário de apresentação de projetos\n- Declaração de Ciência e Concordância\n- REQUERIMENTO DE HABILITAÇÃO\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 8,
+        "cdPrograma": "2025 - 00001",
+        "nmPrograma": "Lei de Incentivo à Reciclagem 2025",
+        "nmEnteRepassador": "Ministério do Meio Ambiente",
+        "tpInstrumento": "Lei de Incentivo à Reciclagem - Declaração de Responsabilidade",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/8",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "Orientação para preencher código de classificação de despesa",
+          "Orientações para resultados esperados e seus indicadores",
+          "Modelo de declaração de inexistência de sobreposição de recursos",
+          "Modelo de comprovação da Capacidade tecnica"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Lei de Incentivo à Reciclagem 2025\nCÓDIGO: 2025 - 00001\nÓRGÃO REPASSADOR: Ministério do Meio Ambiente\nINSTRUMENTO: Lei de Incentivo à Reciclagem - Declaração de Responsabilidade\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/8\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nO objetivo da LIR (Lei de Incentivo à Reciclagem) é fomentar o desenvolvimento sustentável e a economia circular por meio do incentivo a projetos que promovam a reciclagem, o reúso de materiais e a responsabilidade compartilhada pelo ciclo de vida dos produtos. A LIR busca estimular a capacitação, formação e assessoria técnica, a incubação de empreendimentos, a realização de pesquisas e estudos, a implantação de infraestrutura física, a aquisição de equipamentos e veículos, a organização de redes de comercialização, o fortalecimento da participação de catadores e o desenvolvimento de novas tecnologias. Esses esforços visam fortalecer a cadeia produtiva da reciclagem, promover a inclusão social, gerar emprego e renda, e reduzir os impactos ambientais, incentivando a participação de empresas, cooperativas, associações e organizações sociais no setor. Diretrizes da Lei de Incentivo à Reciclagem 1. Fomento à Cadeia Produtiva da Reciclagem Promover o desenvolvimento da cadeia produtiva da reciclagem, abrangendo todas as etapas do processo, desde a geração, segregação, coleta, transporte, beneficiamento e transformação industrial até a conscientização social, com o objetivo de fortalecer a economia circular e reduzir os impactos ambientais. 2. Capacitação e Formação Técnica Incentivar projetos que promovam a capacitação, formação e assessoria técnica para diferentes setores, como áreas acadêmicas, empresariais, cooperativas e organizações sociais, com foco na promoção de atividades de reciclagem e reúso de materiais. 3. Incentivo à Incubação de Empreendimentos Apoiar a criação e o fortalecimento de microempresas, pequenas empresas, cooperativas e empreendimentos sociais solidários que atuem na reciclagem, por meio de incubação e suporte técnico-administrativo. 4. Responsabilidade Compartilhada Estimular pesquisas, estudos e ações que promovam a responsabilidade compartilhada pelo ciclo de vida dos produtos, incluindo a aplicação de recursos em projetos que demonstrem adicionalidade em relação às metas de logística reversa. 5. Fortalecimento da Participação dos Catadores Promover a inclusão social e o fortalecimento da participação de catadores de materiais reutilizáveis e recicláveis nas cadeias de reciclagem, por meio de apoio técnico, organizacional e financeiro. 6. Incentivos Fiscais e Transparência na Gestão de Recursos Oferecer incentivos fiscais, como deduções no imposto de renda para pessoas físicas e jurídicas tributadas com base no lucro real, para apoiar projetos previamente aprovados pelo Ministério do Meio Ambiente. Garantir a transparência na gestão dos recursos captados, com prestação de contas obrigatória e monitoramento contínuo.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar os investimentos e estimular a cadeia produtiva da reciclagem, com vistas a fomentar o uso de matérias-primas e de insumos de materiais recicláveis e reciclados.\n\n4. PÚBLICO-ALVO\nO envio de propostas é permitido a: I - Empreendimentos de Catadores de Materiais Recicláveis, II - Instituições de Ensino e Pesquisa e de Ciência e Tecnologia, III - Condomínios Edilícios, IV - Organizações da Sociedade Civil de Interesse Público - Oscip; V - Organizações da Sociedade Civil - OSC; VI - Órgãos Públicos, Consórcios Públicos, Autarquias, Fundações Públicas, entre outras desta natureza; e VII - Empresas de porte classificada nas categorias de Microempresa e Pequena Empresas segundo o art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006.\n\n5. RESULTADO ESPERADO\n(não informado pela fonte)\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- Orientação para preencher código de classificação de despesa\n- Orientações para resultados esperados e seus indicadores\n- Modelo de declaração de inexistência de sobreposição de recursos\n- Modelo de comprovação da Capacidade tecnica\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 6,
+        "cdPrograma": "2024 - 00006",
+        "nmPrograma": "Pronon - Realização de pesquisas clínicas, epidemiológicas e experimentais",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/6",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [
+          "Portaria de Credenciamento"
+        ],
+        "anexos": [
+          "ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA",
+          "ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS",
+          "ANEXO 3 - DESCRIÇÃO DO PROJETO",
+          "RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS",
+          "RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS",
+          "FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronon - Realização de pesquisas clínicas, epidemiológicas e experimentais\nCÓDIGO: 2024 - 00006\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/6\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pacientes oncológicos, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico e tratamento das pessoas com câncer.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoas que demandem atenção oncológica\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de atenção oncológica;Contribuir para a ampliação do acesso às ações e serviços de de atenção oncológica.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n- Portaria de Credenciamento\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA\n- ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS\n- ANEXO 3 - DESCRIÇÃO DO PROJETO\n- RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS\n- RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS\n- FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 4,
+        "cdPrograma": "2024 - 00004",
+        "nmPrograma": "Pronon - Serviços médico-assistenciais",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/4",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS",
+          "ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA",
+          "ANEXO 3 - DESCRIÇÃO DO PROJETO",
+          "RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS",
+          "RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS",
+          "FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronon - Serviços médico-assistenciais\nCÓDIGO: 2024 - 00004\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/4\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pacientes oncológicos, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico e tratamento das pessoas com câncer.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoas que demandem atenção oncológica\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de atenção oncológica;Contribuir para a ampliação do acesso às ações e serviços de de atenção oncológica.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS\n- ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA\n- ANEXO 3 - DESCRIÇÃO DO PROJETO\n- RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS\n- RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS\n- FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 106,
+        "cdPrograma": "2026 - 00001",
+        "nmPrograma": "Lei de Incentivo à Reciclagem 2026",
+        "nmEnteRepassador": "Ministério do Meio Ambiente",
+        "tpInstrumento": "Lei de Incentivo à Reciclagem - Declaração de Responsabilidade",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/106",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "Orientações para definição de metas do Plano de Trabalho",
+          "Orientações para definição de resultados esperados e seus indicadores",
+          "Orientação para preencher código de classificação de despesa",
+          "Modelo de Declaração de inexistencia de sobreposição de recursos",
+          "Modelo de comprovação da Capacidade tecnica"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Lei de Incentivo à Reciclagem 2026\nCÓDIGO: 2026 - 00001\nÓRGÃO REPASSADOR: Ministério do Meio Ambiente\nINSTRUMENTO: Lei de Incentivo à Reciclagem - Declaração de Responsabilidade\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/106\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nO objetivo da Lei de Incentivo à Reciclagem - LIR é fomentar o desenvolvimento sustentável e a economia circular por meio do incentivo a projetos que promovam a reciclagem, o reúso de materiais e a responsabilidade compartilhada pelo ciclo de vida dos produtos.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar os investimentos e estimular a cadeia produtiva da reciclagem, com vistas a fomentar o uso de matérias-primas e de insumos de materiais recicláveis e reciclados.\n\n4. PÚBLICO-ALVO\nO envio de propostas é permitido a: I - Empreendimentos de Catadores de Materiais Recicláveis, II - Instituições de Ensino e Pesquisa e de Ciência e Tecnologia, III - Condomínios Edilícios, IV - Organizações da Sociedade Civil de Interesse Público - Oscip; V - Organizações da Sociedade Civil - OSC; VI - Órgãos Públicos, Consórcios Públicos, Autarquias, Fundações Públicas, entre outras desta natureza; e VII - Empresas de porte classificada nas categorias de Microempresa e Pequena Empresas segundo o art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006.\n\n5. RESULTADO ESPERADO\n(não informado pela fonte)\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- Orientações para definição de metas do Plano de Trabalho\n- Orientações para definição de resultados esperados e seus indicadores\n- Orientação para preencher código de classificação de despesa\n- Modelo de Declaração de inexistencia de sobreposição de recursos\n- Modelo de comprovação da Capacidade tecnica\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 11,
+        "cdPrograma": "2025 - 00004",
+        "nmPrograma": "Pronon - Serviços médico-assistenciais (2º ciclo)",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/11",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [],
+        "anexos": [
+          "ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS",
+          " ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "ANEXO 3 - DESCRIÇÃO DO PROJETO",
+          "ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronon - Serviços médico-assistenciais (2º ciclo)\nCÓDIGO: 2025 - 00004\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/11\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pacientes oncológicos, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico e tratamento das pessoas com câncer.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoas que buscam atendimentos oncológicos.\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de atenção oncológica; Contribuir para a ampliação do acesso às ações e serviços de de atenção oncológica.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n(nenhum requisito publicado nesse programa até o momento)\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS\n-  ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- ANEXO 3 - DESCRIÇÃO DO PROJETO\n- ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      },
+      {
+        "idPrograma": 5,
+        "cdPrograma": "2024 - 00005",
+        "nmPrograma": "Pronon - Formação, o treinamento e o aperfeiçoamento de recursos humanos em todos os níveis",
+        "nmEnteRepassador": "Secretaria-Executiva",
+        "tpInstrumento": "Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)",
+        "urlPortal": "https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/5",
+        "captacaoInicio": null,
+        "captacaoFim": null,
+        "condicionantes": [
+          "Portaria de Credenciamento"
+        ],
+        "anexos": [
+          "ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES",
+          "ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS",
+          "ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA",
+          "ANEXO 3 - DESCRIÇÃO DO PROJETO",
+          "RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS",
+          "RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS",
+          "FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD"
+        ],
+        "minuta": "MINUTA DE PLANO DE TRABALHO (rascunho automático — revisar antes de usar)\nGerado em 2026-09-22\n\nMUNICÍPIO PROPONENTE: Junqueirópolis - SP\n\nPROGRAMA: Pronon - Formação, o treinamento e o aperfeiçoamento de recursos humanos em todos os níveis\nCÓDIGO: 2024 - 00005\nÓRGÃO REPASSADOR: Secretaria-Executiva\nINSTRUMENTO: Lei de incentivo à Saúde do Ministério da Saúde (PRONON e PRONAS)\n\nEDITAL/PROGRAMA NO PORTAL: https://parcerias.transferegov.sistema.gov.br/ep-atos-prep-web/atos-prep/programa/detalhamento/5\n\n1. OBJETO\n[Adaptar ao projeto específico de Junqueirópolis a partir do objetivo do programa abaixo]\n\n2. OBJETIVO DO PROGRAMA (referência oficial)\nFortalecer as políticas de saúde para pacientes oncológicos, ampliando a oferta de serviços médico-assistenciais, apoiando a formação e treinamento de recursos humanos, e promovendo pesquisas clínicas, epidemiológicas e socioantropológicas. As instituições participantes devem ser sem fins lucrativos e atuar na prevenção, diagnóstico e tratamento das pessoas com câncer.\n\n3. PROBLEMA QUE O PROGRAMA ENDEREÇA\nAmpliar o fomento de projetos que contribuam com a política de saúde temática, visando um melhor direcionamento de recursos captados, por meio de ações e serviços de saúde ofertados pela sociedade civil de forma complementar ao Sistema Único de Saúde (SUS).\n\n4. PÚBLICO-ALVO\nPessoas que demandem atenção oncológica\n\n5. RESULTADO ESPERADO\nPromover a melhoria na qualidade dos serviços de atenção oncológica;Contribuir para a ampliação do acesso às ações e serviços de de atenção oncológica.\n\n6. JUSTIFICATIVA LOCAL\n[Preencher: por que Junqueirópolis precisa deste recurso — dado local, diagnóstico, demanda]\n\n7. CRONOGRAMA E METAS\n[Preencher junto com a secretaria responsável]\n\n8. CONDICIONANTES PARA RECEPÇÃO DE RECURSOS (do portal, cláusula suspensiva)\n- Portaria de Credenciamento\n\n9. DOCUMENTOS/ANEXOS DO PROGRAMA (baixar no portal)\n- ANEXO 7 - PARA AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES\n- ANEXO 6 - DEMONSTRATIVO DA PROJEÇÃO DAS DESPESAS\n- ANEXO 4 E 5 - DECLARAÇÃO DE RESPONSABILIDADE E CAPACIDADE TÉCNICO-OPERATIVA\n- ANEXO 3 - DESCRIÇÃO DO PROJETO\n- RELATÓRIO DE EXECUÇÃO DE RECEITAS E DESPESAS - PRESTAÇÃO DE CONTAS\n- RELATÓRIO DE CUMPRIMENTO DO OBJETO - PRESTAÇÃO DE CONTAS\n- FORMULÁRIO DE PRESTAÇÃO DE CONTAS PRONON E PRONAS PCD\n\n---\nFonte dos dados do programa: API pública Transferegov (api-publica.transferegov.gestao.gov.br)\nEste documento é um ponto de partida gerado automaticamente. Não substitui análise técnica\nnem o formulário oficial exigido pelo órgão repassador.\n"
+      }
+    ],
+    "historico": [
+      {
+        "objeto": "O objetivo é repassar recursos federais do Fundo Nacional de Assistência Social (FNAS) ao Fundo de Assistência Social do ente federado vinculado a esta programação, com o intuito de fortalecer e ampliar a oferta de serviços socioassistenciais de caráter continuado do Sistema Único de Assistência Soc",
+        "situacao": "Aprovada",
+        "valor": 180000.0,
+        "data": "2026-05-05",
+        "orgao": "Diretoria-Executiva do Fundo Nacional de Assistência Social",
+        "valorFmt": "R$ 180.000"
+      },
+      {
+        "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANENTE",
+        "situacao": "Aprovada",
+        "valor": 179961.0,
+        "data": "2026-04-27",
+        "orgao": "Ministério da Saúde",
+        "valorFmt": "R$ 179.961"
+      },
+      {
+        "objeto": "INCREMENTO DA MÉDIA E ALTA COMPLEXIDADE (MAC)",
+        "situacao": "Aprovada",
+        "valor": 150000.0,
+        "data": "2026-04-09",
+        "orgao": "Ministério da Saúde",
+        "valorFmt": "R$ 150.000"
+      },
+      {
+        "objeto": "INCREMENTO DA MÉDIA E ALTA COMPLEXIDADE (MAC)",
+        "situacao": "Aprovada",
+        "valor": 100000.0,
+        "data": "2025-10-20",
+        "orgao": "Ministério da Saúde",
+        "valorFmt": "R$ 100.000"
+      },
+      {
+        "objeto": "O objetivo é repassar recursos federais do Fundo Nacional de Assistência Social (FNAS) ao Fundo de Assistência Social do ente federado vinculado a esta programação, com o intuito de fortalecer e ampliar a oferta de serviços socioassistenciais de caráter continuado do Sistema Único de Assistência Soc",
+        "situacao": "Aprovada",
+        "valor": 200000.0,
+        "data": "2025-07-23",
+        "orgao": "Diretoria-Executiva do Fundo Nacional de Assistência Social",
+        "valorFmt": "R$ 200.000"
+      },
+      {
+        "objeto": "INCREMENTO DA MÉDIA E ALTA COMPLEXIDADE (MAC)",
+        "situacao": "Aprovada",
+        "valor": 200000.0,
+        "data": "2025-07-23",
+        "orgao": "Ministério da Saúde",
+        "valorFmt": "R$ 200.000"
+      },
+      {
+        "objeto": "INCREMENTO DA MÉDIA E ALTA COMPLEXIDADE (MAC)",
+        "situacao": "Aprovada",
+        "valor": 200000.0,
+        "data": "2025-07-23",
+        "orgao": "Ministério da Saúde",
+        "valorFmt": "R$ 200.000"
+      },
+      {
+        "objeto": "INCREMENTO DA MÉDIA E ALTA COMPLEXIDADE (MAC)",
+        "situacao": "Aprovada",
+        "valor": 250000.0,
+        "data": "2025-07-23",
+        "orgao": "Ministério da Saúde",
+        "valorFmt": "R$ 250.000"
+      }
+    ]
+  },
+  "pncp": {
+    "geradoEm": "2026-09-22",
+    "janelaDias": 30,
+    "modalidadesConsultadas": [
+      "Manifestação de Interesse",
+      "Credenciamento"
+    ],
+    "totalAvisos": 23,
+    "avisos": [
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE SOROCABA",
+        "uf": "SP",
+        "municipio": "Sorocaba",
+        "objeto": "RP DE ESCALPE ESPECIAL PARA COLETA A VAC UO PARA ATENDE A REDE MUNICIAL DE SAUDE",
+        "dataPublicacao": "2026-08-26T11:54:13",
+        "numeroControlePNCP": "46634044000174-1-000187/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE SOROCABA",
+        "uf": "SP",
+        "municipio": "Sorocaba",
+        "objeto": "RP DE MEDICAMENTOS PARA ATENDER MANDADOS JUDICIAIS",
+        "dataPublicacao": "2026-08-26T12:02:13",
+        "numeroControlePNCP": "46634044000174-1-000188/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE SOROCABA",
+        "uf": "SP",
+        "municipio": "Sorocaba",
+        "objeto": "RP DE DIETAS PARA ATENDER MANDADO JUDICI AL",
+        "dataPublicacao": "2026-08-26T16:04:36",
+        "numeroControlePNCP": "46634044000174-1-000193/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE SOROCABA",
+        "uf": "SP",
+        "municipio": "Sorocaba",
+        "objeto": "RP MEDICAMENTOS NFB/NDC P/ ATENDER A RED E MUNICIPAL DE SAUDE",
+        "dataPublicacao": "2026-08-31T08:29:04",
+        "numeroControlePNCP": "46634044000174-1-000200/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE CAMPOS DO JORDAO",
+        "uf": "SP",
+        "municipio": "Campos do Jordão",
+        "objeto": "O CONACIN – CONSÓRCIO PÚBLICO INTERMUNICIPAL DE CIDADES INTELIGENTES, pessoa jurídica de direito público, devidamente inscrito no CNPJ sob o número 63.161.279/0001-05, na qualidade de órgão gerenciador, torna pública, para conhecimento dos interessados, a abertura de Intenção de Registro de Preços n.º 005/2026, visando a abertura de futuro procedimento licitatório, pelo Sistema de Registro de Preços, destinado à CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA EXECUÇÃO DO CADASTRO TERRITORIAL MULTIFINALITÁRIO (CTM), COMPREENDENDO O LEVANTAMENTO AEROFOTOGRAMÉTRICO DIGITAL E ORBITAL, A ATUALIZAÇÃO DA BASE CADASTRAL E DO MAPA DIGITAL URBANO, A REVISÃO DA PLANTA GENÉRICA DE VALORES (PGV) E O FORNECIMENTO, NA MODALIDADE SOFTWARE COMO SERVIÇO (SAAS), DE SOLUÇÕES TECNOLÓGICAS DE GESTÃO TERRITORIAL, TRIBUTÁRIA, AMBIENTAL E DE MONITORAMENTO DE EVENTOS CLIMÁTICOS.",
+        "dataPublicacao": "2026-09-15T16:20:36",
+        "numeroControlePNCP": "45699626000176-1-000465/2026",
+        "linkSistemaOrigem": "http://www.licitacaocamposdojordao.com.br"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE CAMPOS DO JORDAO",
+        "uf": "SP",
+        "municipio": "Campos do Jordão",
+        "objeto": "O CONACIN – CONSÓRCIO PÚBLICO INTERMUNICIPAL DE CIDADES INTELIGENTES, pessoa jurídica de direito público, devidamente inscrito no CNPJ sob o número 63.161.279/0001-05, na qualidade de órgão gerenciador, torna pública, para conhecimento dos interessados, a abertura de Intenção de Registro de Preços n.º 006/2026, visando a abertura de futuro procedimento licitatório, pelo Sistema de Registro de Preços, destinado à CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO, NA MODALIDADE SOFTWARE COMO SERVIÇO (SAAS), DE SOLUÇÃO DE CORREIO ELETRÔNICO INSTITUCIONAL, COMPREENDENDO LICENCIAMENTO DE USO, HOSPEDAGEM, MIGRAÇÃO, CONFIGURAÇÃO, IMPLANTAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO, BACKUP, SEGURANÇA, ANTISPAM, QUARENTENA, MONITORAMENTO E DEMAIS SERVIÇOS CORRELATOS.",
+        "dataPublicacao": "2026-09-15T16:31:27",
+        "numeroControlePNCP": "45699626000176-1-000466/2026",
+        "linkSistemaOrigem": "http://www.licitacaocamposdojordao.com.br"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE CAMPOS DO JORDAO",
+        "uf": "SP",
+        "municipio": "Campos do Jordão",
+        "objeto": "O CONACIN – CONSÓRCIO PÚBLICO INTERMUNICIPAL DE CIDADES INTELIGENTES, pessoa jurídica de direito público, devidamente inscrito no CNPJ sob o número 63.161.279/0001-05, na qualidade de órgão gerenciador, torna pública, para conhecimento dos interessados, a abertura de Intenção de Registro de Preços n.º 007/2026, visando a abertura de futuro procedimento licitatório, pelo Sistema de Registro de Preços, destinado à CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE SOLUÇÃO INTEGRADA DE INFRAESTRUTURA EM NUVEM, COMPREENDENDO RECURSOS COMPUTACIONAIS, SEGURANÇA CIBERNÉTICA DE BORDA (FIREWALL DEDICADO, WAF, ANTI-DDOS, VPN E ANTIVÍRUS), BACKUP E REPLICAÇÃO DE DADOS, MONITORAMENTO TÉCNICO (NOC/SOC), SERVIÇOS GERENCIADOS, SUSTENTAÇÃO CONTÍNUA, BANCO DE HORAS SOB DEMANDA E TREINAMENTO.",
+        "dataPublicacao": "2026-09-15T16:41:05",
+        "numeroControlePNCP": "45699626000176-1-000467/2026",
+        "linkSistemaOrigem": "http://www.licitacaocamposdojordao.com.br"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE SOROCABA",
+        "uf": "SP",
+        "municipio": "Sorocaba",
+        "objeto": "REGISTRO DE PREOS DE DIETAS PARA ATENDE R A REDE MUNICIPAL DE SAUDE",
+        "dataPublicacao": "2026-09-21T16:48:18",
+        "numeroControlePNCP": "46634044000174-1-000225/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE SOROCABA",
+        "uf": "SP",
+        "municipio": "Sorocaba",
+        "objeto": "REGISTRO DE PRECOS DE MEDICAMENTOS FB/ND C",
+        "dataPublicacao": "2026-09-22T11:58:12",
+        "numeroControlePNCP": "46634044000174-1-000226/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "PERNAMBUCO TRIBUNAL DE JUSTICA",
+        "uf": "PE",
+        "municipio": "Recife",
+        "objeto": "Intenção de Registro de Preços - aquisição de pilhas",
+        "dataPublicacao": "2026-08-24T10:21:44",
+        "numeroControlePNCP": "11431327000134-1-000088/2026",
+        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/111331"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "PARANA TRIBUNAL DE JUSTICA",
+        "uf": "PR",
+        "municipio": "Curitiba",
+        "objeto": "REALIZAÇÃO DE CHAMAMENTO PÚBLICO COM O OBJETIVO DE PROSPECÇÃO DE MERCADO, VISANDO A CONSTRUÇÃO DE NOVA EDIFICAÇÃO, PARA FIM DE LOCAÇÃO NÃO RESIDENCIAL NA MODALIDADE BUILT TO SUIT NO BAIRRO SÍTIO CERCADO DO MUNICÍPIO DE CURITIBA",
+        "dataPublicacao": "2026-08-24T10:59:04",
+        "numeroControlePNCP": "77821841000194-1-000174/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "PERNAMBUCO TRIBUNAL DE JUSTICA",
+        "uf": "PE",
+        "municipio": "Recife",
+        "objeto": "IRP - aquisição de material de construção",
+        "dataPublicacao": "2026-08-25T09:56:39",
+        "numeroControlePNCP": "11431327000134-1-000089/2026",
+        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/111456"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO CIS-VERDE",
+        "uf": "MG",
+        "municipio": "Carangola",
+        "objeto": "Edital de pregão eletrônico para registro de preços objetivando futura e eventual contratação de empresa ou entidade especializada em energia renovável, para disponibilização, alocação, compensação e gestão de créditos de energia elétrica provenientes de micro e minigeração distribuída (MMGD) de fonte fotovoltaica, na modalidade de geração compartilhada, no âmbito do Sistema de Compensação de Energia Elétrica (SCEE), destinados às unidades consumidoras dos entes participantes do CIS-VERDE, com aplicação do percentual de desconto contratado sobre a base econômica da energia efetivamente compensada, de acordo com as especificações e condições estabelecidas neste Termo de Referência, no edital e em seus anexos.",
+        "dataPublicacao": "2026-08-25T15:03:08",
+        "numeroControlePNCP": "02034350000102-1-000043/2026",
+        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/111557"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "GOIAS ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIAS",
+        "uf": "GO",
+        "municipio": "Goiânia",
+        "objeto": "PROSPECÇÃO DO MERCADO IMOBILIÁRIO PARA IDENTIFICAÇÃO DE IMÓVEL EDIFICADO, DE CARÁTER INSTITUCIONAL E VALOR HISTÓRICO-CULTURAL, DESTINADO À FUTURA INSTALAÇÃO DO CENTRO CULTURAL DO LEGISLATIVO GOIANO",
+        "dataPublicacao": "2026-08-26T10:24:28",
+        "numeroControlePNCP": "02474419000100-1-000007/2026",
+        "linkSistemaOrigem": "contratosgov.com.br/Transparencia/DetalhesContratacao?hsCliente=alego&p_idContratacao=2711"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "GOIAS ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIAS",
+        "uf": "GO",
+        "municipio": "Goiânia",
+        "objeto": "PROCEDIMENTO DE MANIFESTAÇÃO DE INTERESSE (PMI), DESTINADO À PROSPECÇÃO DO MERCADO IMOBILIÁRIO PARA IDENTIFICAÇÃO DE IMÓVEL EDIFICADO, DE CARÁTER INSTITUCIONAL E VALOR HISTÓRICO-CULTURAL, DESTINADO À FUTURA INSTALAÇÃO DO CENTRO DE COMUNICAÇÃO PÚBLICA, DEMOCRACIA E DIREITOS DO LEGISLATIVO GOIANO (CCPDDLG)",
+        "dataPublicacao": "2026-08-26T11:45:33",
+        "numeroControlePNCP": "02474419000100-1-000008/2026",
+        "linkSistemaOrigem": "contratosgov.com.br/Transparencia/DetalhesContratacao?hsCliente=alego&p_idContratacao=2712"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "SECRETARIA MUNICIPAL DA INFRAESTRUTURA, DESENVOLVIMENTO URBANO E MOBILIDADE",
+        "uf": "TO",
+        "municipio": "Porto Nacional",
+        "objeto": "SOLICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE PNEUS E CÂMARAS DE AR, VISANDO ATENDER ÀS DEMANDAS DA FROTA VEICULAR DA SECRETARIA MUNICIPAL DE INFRAESTRUTURA, DESENVOLVIMENTO URBANO E HABITAÇÃO E DEMAIS SECRETARIAS PARTICIPANTES DO MUNICÍPIO DE PORTO NACIONAL -\nTO.",
+        "dataPublicacao": "2026-09-02T09:22:42",
+        "numeroControlePNCP": "27029184000179-1-000002/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE BARRA DO CORDA",
+        "uf": "MA",
+        "municipio": "Barra do Corda",
+        "objeto": "Adesão de Ata de Registro de Preços para contratação de empresa especializada para prestação de serviços de saúde itinerante a ser realizado em Unidade Móvel equipada para realização de consultas e exames nas áreas de oftalmologia, conciliada a realização de exames de avaliação da acuidade visual com e sem correção (ou seja, com e sem óculos), com fornecimento de óculos, para atendimento do município de Barra do Corda-MA,",
+        "dataPublicacao": "2026-09-02T13:11:45",
+        "numeroControlePNCP": "06769798000117-1-000149/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "PERNAMBUCO TRIBUNAL DE JUSTICA",
+        "uf": "PE",
+        "municipio": "Recife",
+        "objeto": "Manifestação de Interesse - aquisição de caixas de papelão",
+        "dataPublicacao": "2026-09-03T10:07:05",
+        "numeroControlePNCP": "11431327000134-1-000093/2026",
+        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/112486"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE POCOS DE CALDAS",
+        "uf": "MG",
+        "municipio": "Poços de Caldas",
+        "objeto": "SELEÇÃO DE PESSOAS FÍSICAS OU JURÍDICAS DE DIREITO PRIVADO, INDIVIDUALMENTE OU EM GRUPO, INTERESSADAS NA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS, LEVANTAMENTOS, INVESTIGAÇÕES E ESTUDOS TÉCNICOS QUE SUBSIDIEM A ESTRUTURAÇÃO DE FUTURA CONCESSÃO OU PARCERIA PÚBLICO-PRIVADA (PPP) PARA A REQUALIFICAÇÃO, REVITALIZAÇÃO, MODERNIZAÇÃO, OPERAÇÃO E GESTÃO INTEGRADA DO PARQUE MUNICIPAL DR. ANTÔNIO MOLINARI E DO COMPLEXO AQUÁTICO COUNTRY CLUB DE POÇOS DE CALDAS  SECRETARIA MUNICIPAL DE ESPORTES",
+        "dataPublicacao": "2026-09-03T18:49:01",
+        "numeroControlePNCP": "18629840000183-1-000148/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE GRANJA",
+        "uf": "CE",
+        "municipio": "Granja",
+        "objeto": "AQUISIÇÃO DE COLETES DE PROTEÇÃO BALÍSTICA NÍVEL III-A, CONFORME ESPECIFICAÇÕES, VISANDO ATENDER AS NECESSIDADES DA GUARDA CIVIL MUNICIPAL, JUNTO A SECRETARIA DE SEGURANÇA PÚBLICA E DEFESA DA CIDADANIA DO MUNICÍPIO DE GRANJA.",
+        "dataPublicacao": "2026-09-04T16:24:18",
+        "numeroControlePNCP": "07827165000180-1-000106/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE CORURIPE",
+        "uf": "AL",
+        "municipio": "Coruripe",
+        "objeto": "APRESENTAÇÃO, SUBMISSÃO À  AVALIAÇÃO TÉCNICO-PEDAGÓGICA E EVENTUAL SELEÇÃO DE MATERIAIS DIDÁTICOS COMPLEMENTARES  (LIVROS, COLEÇÕES, CADERNO DE ATIVIDADES OU RECURSOS DIGITAIS), DE LITERATURA E POESIA  POPULAR BRASILEIRA, DESTINADOS AOS ANOS FINAIS DO ENSINO FUNDAMENTAL DA REDE PÚBLICA  MUNICIPAL DE ENSINO DE CORURIPE/AL.",
+        "dataPublicacao": "2026-09-08T11:58:29",
+        "numeroControlePNCP": "12264230000147-1-000057/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "PERNAMBUCO TRIBUNAL DE JUSTICA",
+        "uf": "PE",
+        "municipio": "Recife",
+        "objeto": "Manifestação de interesse para contratação de empresa especializada em serviços de engenharia para o fornecimento e instalação, sob demanda, de sistema de detecção e alarme de incêndio sem fio (wireless), bem como a hospedagem e monitoramento de central, para os imóveis em uso pelo TJPE",
+        "dataPublicacao": "2026-09-10T14:47:40",
+        "numeroControlePNCP": "11431327000134-1-000099/2026",
+        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/113123"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE JEREMOABO",
+        "uf": "BA",
+        "municipio": "Jeremoabo",
+        "objeto": "Constitui objeto deste PMI a estruturação de solução tecnologicamente neutra para tratamento, recuperação, aproveitamento, valorização e destinação ambientalmente adequada dos resíduos sólidos urbanos gerados no Município de Jeremoabo/BA, mediante apresentação de estudos, levantamentos, investigações, projetos e modelagens técnica, operacional, ambiental, econômico-financeira, jurídica e institucional. Os estudos deverão avaliar e comparar as tecnologias disponíveis e tecnicamente aplicáveis, inclusive alternativas isoladas ou combinadas de recuperação material e energética e de geração ou aproveitamento de produtos e subprodutos, sem vinculação prévia a tecnologia específica, visando subsidiar a comparação entre concessão comum, parceria público-privada ou outro modelo juridicamente adequado. Os estudos não deverão ficar limitados à pirólise, ao biogás, à biodigestão anaeróbia ou a qualquer outra tecnologia previamente definida, devendo avaliar e comparar, de forma técnica, ambiental, operacional, econômica e jurídica, as soluções disponíveis e adequadas ao tratamento, aproveitamento, valorização e destinação ambientalmente adequada dos resíduos sólidos urbanos do Município de Jeremoabo/BA.",
+        "dataPublicacao": "2026-09-15T13:11:46",
+        "numeroControlePNCP": "13809041000175-1-000109/2026",
+        "linkSistemaOrigem": "sai.io.org.br/site/PublicadoPncp/170677?localConsulta=2&cod=1954"
+      }
+    ],
+    "erros": [
+      "Falha ao consultar modalidade 12 (Credenciamento): 500 Server Error:  for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260823&dataFinal=20260922&codigoModalidadeContratacao=12&pagina=16&tamanhoPagina=50"
+    ]
+  }
+}
