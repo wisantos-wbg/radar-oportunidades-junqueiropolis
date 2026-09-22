@@ -48,12 +48,25 @@ def get_todos_programas() -> list[dict]:
     return data["data"]
 
 
+def _prazo_expirado(programa: dict) -> bool:
+    # A API sinaliza o vencimento do prazo de captação num campo separado do
+    # `situacao_programa` — um programa pode continuar "Disponibilizado"
+    # (publicado) mesmo com o prazo de propostas já encerrado.
+    qualificacao = programa.get("qualificacao_beneficiario")
+    if qualificacao == "Beneficiário Espontâneo":
+        return programa.get("expiracao_prog_beneficiario_espotaneo") == "prog_expirado"
+    if qualificacao == "Beneficiário Específico":
+        return programa.get("expiracao_prog_beneficiario_especifico") == "prog_expirado"
+    return False
+
+
 def get_programas_abertos() -> list[dict]:
     programas = get_todos_programas()
     return [
         p for p in programas
         if p.get("situacao_programa") == "Disponibilizado"
         and p.get("qualificacao_beneficiario") in ("Beneficiário Espontâneo", "Beneficiário Específico")
+        and not _prazo_expirado(p)
     ]
 
 
@@ -87,8 +100,8 @@ def get_programa_detalhe(id_programa: int) -> dict | None:
         return None
     return {
         "url": url_portal_programa(id_programa),
-        "captacaoInicio": data.get("dtaInicioRecebPropEspfic"),
-        "captacaoFim": data.get("dtaFimRecebPropEspfic"),
+        "captacaoInicio": data.get("dtaInicioRecebPropEsp"),
+        "captacaoFim": data.get("dtaFimRecebPropEsp"),
         "recebendoProposta": data.get("recebendoProposta"),
         "condicionantes": [
             r["descricaoRequisito"] for r in (data.get("requisitos") or [])
