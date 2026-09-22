@@ -71,7 +71,7 @@ def montar_radar_pncp() -> dict:
     for codigo, nome_modalidade in MODALIDADES_INTERESSE.items():
         try:
             itens = _buscar_modalidade(codigo, data_inicial, data_final)
-        except requests.HTTPError as e:
+        except requests.exceptions.RequestException as e:
             avisos.append({"erro": f"Falha ao consultar modalidade {codigo} ({nome_modalidade}): {e}"})
             continue
         for it in itens:
