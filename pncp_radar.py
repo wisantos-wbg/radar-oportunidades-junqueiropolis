@@ -38,7 +38,14 @@ def _buscar_modalidade(codigo_modalidade: int, data_inicial: str, data_final: st
             "pagina": pagina,
             "tamanhoPagina": 50,
         }
-        resp = requests.get(BASE_URL, params=params, timeout=30)
+        for tentativa in range(3):
+            try:
+                resp = requests.get(BASE_URL, params=params, timeout=60)
+                break
+            except requests.exceptions.ReadTimeout:
+                if tentativa == 2:
+                    raise
+                time.sleep(2)
         if resp.status_code == 204:
             break
         resp.raise_for_status()
