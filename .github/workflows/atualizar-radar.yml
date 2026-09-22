@@ -23,10 +23,13 @@ jobs:
 
       - run: python gerar_relatorio.py
 
+      - name: Desativa processamento Jekyll no GitHub Pages
+        run: touch docs/.nojekyll
+
       - name: Commit e push se o radar mudou
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html docs/data.json
+          git add docs/index.html docs/data.json docs/.nojekyll
           git diff --staged --quiet && echo "sem mudança, nada pra commitar" || \
             (git commit -m "Atualiza radar de oportunidades ($(date -u +%Y-%m-%d))" && git push)
