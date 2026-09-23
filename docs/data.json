@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-09-22",
+    "geradoEm": "2026-09-23",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -74,7 +74,7 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-09-22",
+    "geradoEm": "2026-09-23",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
@@ -84,7 +84,7 @@
     "avisos": [],
     "erros": [
       "Falha ao consultar modalidade 10 (Manifestação de Interesse): HTTPSConnectionPool(host='pncp.gov.br', port=443): Read timed out. (read timeout=60)",
-      "Falha ao consultar modalidade 12 (Credenciamento): 502 Server Error: Bad Gateway for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260823&dataFinal=20260922&codigoModalidadeContratacao=12&pagina=1&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): HTTPSConnectionPool(host='pncp.gov.br', port=443): Read timed out. (read timeout=60)"
     ]
   }
 }
