@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-09-24",
+    "geradoEm": "2026-09-25",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -74,13 +74,13 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-09-24",
+    "geradoEm": "2026-09-25",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
       "Credenciamento"
     ],
-    "totalAvisos": 26,
+    "totalAvisos": 25,
     "avisos": [
       {
         "modalidade": "Manifestação de Interesse",
@@ -191,26 +191,6 @@
         "dataPublicacao": "2026-09-23T15:50:13",
         "numeroControlePNCP": "46634044000174-1-000230/2026",
         "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "PERNAMBUCO TRIBUNAL DE JUSTICA",
-        "uf": "PE",
-        "municipio": "Recife",
-        "objeto": "IRP - aquisição de material de construção",
-        "dataPublicacao": "2026-08-25T09:56:39",
-        "numeroControlePNCP": "11431327000134-1-000089/2026",
-        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/111456"
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO CIS-VERDE",
-        "uf": "MG",
-        "municipio": "Carangola",
-        "objeto": "Edital de pregão eletrônico para registro de preços objetivando futura e eventual contratação de empresa ou entidade especializada em energia renovável, para disponibilização, alocação, compensação e gestão de créditos de energia elétrica provenientes de micro e minigeração distribuída (MMGD) de fonte fotovoltaica, na modalidade de geração compartilhada, no âmbito do Sistema de Compensação de Energia Elétrica (SCEE), destinados às unidades consumidoras dos entes participantes do CIS-VERDE, com aplicação do percentual de desconto contratado sobre a base econômica da energia efetivamente compensada, de acordo com as especificações e condições estabelecidas neste Termo de Referência, no edital e em seus anexos.",
-        "dataPublicacao": "2026-08-25T15:03:08",
-        "numeroControlePNCP": "02034350000102-1-000043/2026",
-        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/111557"
       },
       {
         "modalidade": "Manifestação de Interesse",
@@ -341,10 +321,20 @@
         "dataPublicacao": "2026-09-23T16:22:56",
         "numeroControlePNCP": "00905312000144-1-000006/2026",
         "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/114456"
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "MUNICIPIO DE FLORIANO",
+        "uf": "PI",
+        "municipio": "Floriano",
+        "objeto": "CHAMAMENTO PÚBLICO, DESTINADO À INSCRIÇÃO E AO CADASTRAMENTO DE PROFISSIONAIS PARA COMPOSIÇÃO DA RELAÇÃO DE NOMES QUE SERVIRÁ DE BASE AO SORTEIO PÚBLICO DOS MEMBROS DA SUBCOMISSÃO TÉCNICA RESPONSÁVEL PELA ANÁLISE E JULGAMENTO DAS PROPOSTAS TÉCNICAS NO PROCEDIMENTO LICITATÓRIO DESTINADO À CONTRATAÇÃO DE SERVIÇOS DE PUBLICIDADE PRESTADOS POR INTERMÉDIO DE AGÊNCIA DE PROPAGANDA, NOS TERMOS DO ART. 10 DA LEI FEDERAL Nº 12.232, DE 29 DE ABRIL DE 2010, APLICANDO-SE, SUBSIDIARIAMENTE E NO QUE COUBER, A LEI FEDERAL Nº 14.133, DE 1º DE ABRIL DE 2021, BEM COMO AS DEMAIS NORMAS PERTINENTES.",
+        "dataPublicacao": "2026-09-25T09:02:55",
+        "numeroControlePNCP": "06554067000154-1-000088/2026",
+        "linkSistemaOrigem": null
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260825&dataFinal=20260924&codigoModalidadeContratacao=12&pagina=10&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260826&dataFinal=20260925&codigoModalidadeContratacao=12&pagina=8&tamanhoPagina=50"
     ]
   }
 }
