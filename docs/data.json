@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-09-25",
+    "geradoEm": "2026-09-26",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -74,44 +74,14 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-09-25",
+    "geradoEm": "2026-09-26",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
       "Credenciamento"
     ],
-    "totalAvisos": 25,
+    "totalAvisos": 20,
     "avisos": [
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "MUNICIPIO DE SOROCABA",
-        "uf": "SP",
-        "municipio": "Sorocaba",
-        "objeto": "RP DE ESCALPE ESPECIAL PARA COLETA A VAC UO PARA ATENDE A REDE MUNICIAL DE SAUDE",
-        "dataPublicacao": "2026-08-26T11:54:13",
-        "numeroControlePNCP": "46634044000174-1-000187/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "MUNICIPIO DE SOROCABA",
-        "uf": "SP",
-        "municipio": "Sorocaba",
-        "objeto": "RP DE MEDICAMENTOS PARA ATENDER MANDADOS JUDICIAIS",
-        "dataPublicacao": "2026-08-26T12:02:13",
-        "numeroControlePNCP": "46634044000174-1-000188/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "MUNICIPIO DE SOROCABA",
-        "uf": "SP",
-        "municipio": "Sorocaba",
-        "objeto": "RP DE DIETAS PARA ATENDER MANDADO JUDICI AL",
-        "dataPublicacao": "2026-08-26T16:04:36",
-        "numeroControlePNCP": "46634044000174-1-000193/2026",
-        "linkSistemaOrigem": ""
-      },
       {
         "modalidade": "Manifestação de Interesse",
         "orgao": "MUNICIPIO DE SOROCABA",
@@ -191,26 +161,6 @@
         "dataPublicacao": "2026-09-23T15:50:13",
         "numeroControlePNCP": "46634044000174-1-000230/2026",
         "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "GOIAS ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIAS",
-        "uf": "GO",
-        "municipio": "Goiânia",
-        "objeto": "PROSPECÇÃO DO MERCADO IMOBILIÁRIO PARA IDENTIFICAÇÃO DE IMÓVEL EDIFICADO, DE CARÁTER INSTITUCIONAL E VALOR HISTÓRICO-CULTURAL, DESTINADO À FUTURA INSTALAÇÃO DO CENTRO CULTURAL DO LEGISLATIVO GOIANO",
-        "dataPublicacao": "2026-08-26T10:24:28",
-        "numeroControlePNCP": "02474419000100-1-000007/2026",
-        "linkSistemaOrigem": "contratosgov.com.br/Transparencia/DetalhesContratacao?hsCliente=alego&p_idContratacao=2711"
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "GOIAS ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIAS",
-        "uf": "GO",
-        "municipio": "Goiânia",
-        "objeto": "PROCEDIMENTO DE MANIFESTAÇÃO DE INTERESSE (PMI), DESTINADO À PROSPECÇÃO DO MERCADO IMOBILIÁRIO PARA IDENTIFICAÇÃO DE IMÓVEL EDIFICADO, DE CARÁTER INSTITUCIONAL E VALOR HISTÓRICO-CULTURAL, DESTINADO À FUTURA INSTALAÇÃO DO CENTRO DE COMUNICAÇÃO PÚBLICA, DEMOCRACIA E DIREITOS DO LEGISLATIVO GOIANO (CCPDDLG)",
-        "dataPublicacao": "2026-08-26T11:45:33",
-        "numeroControlePNCP": "02474419000100-1-000008/2026",
-        "linkSistemaOrigem": "contratosgov.com.br/Transparencia/DetalhesContratacao?hsCliente=alego&p_idContratacao=2712"
       },
       {
         "modalidade": "Manifestação de Interesse",
@@ -334,7 +284,7 @@
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260826&dataFinal=20260925&codigoModalidadeContratacao=12&pagina=8&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260827&dataFinal=20260926&codigoModalidadeContratacao=12&pagina=8&tamanhoPagina=50"
     ]
   }
 }
