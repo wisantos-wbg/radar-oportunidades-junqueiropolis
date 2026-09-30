@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-09-29",
+    "geradoEm": "2026-09-30",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -74,13 +74,13 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-09-29",
+    "geradoEm": "2026-09-30",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
       "Credenciamento"
     ],
-    "totalAvisos": 22,
+    "totalAvisos": 25,
     "avisos": [
       {
         "modalidade": "Manifestação de Interesse",
@@ -301,10 +301,40 @@
         "dataPublicacao": "2026-09-29T10:18:48",
         "numeroControlePNCP": "07683188000169-1-000120/2026",
         "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "ESTADO DO ACRE",
+        "uf": "AC",
+        "municipio": "Rio Branco",
+        "objeto": "Contratação de Serviços de Consultoria Individual para realizar um Estudo Técnico e Analítico sobre o Financiamento da Política de Assistência Social e Transferências Intergovernamentais, no Âmbito do Programa de Sustentabilidade Fiscal, Eficiência e Eficácia do Gasto Público do Estado do Acre – PROGESTÃO.",
+        "dataPublicacao": "2026-09-29T12:57:27",
+        "numeroControlePNCP": "63606479000124-1-000546/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "ESTADO DO ACRE",
+        "uf": "AC",
+        "municipio": "Rio Branco",
+        "objeto": "Seleção de Consultores Individuais nº 09/2026, cujo objeto é a Contratação de serviços de consultoria individual especializado em governança, monitoramento e informações gerenciais para apoio técnico à SEPLAN/DIRPLA na organização, rastreabilidade e consolidação das informações do escritório de projetos, no âmbito do Programa De Sustentabilidade Fiscal, Eficiência e Eficácia do Gasto de Público do Estado do Acre – PROGESTÃO",
+        "dataPublicacao": "2026-09-30T11:37:50",
+        "numeroControlePNCP": "63606479000124-1-000551/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Manifestação de Interesse",
+        "orgao": "ESTADO DO ACRE",
+        "uf": "AC",
+        "municipio": "Rio Branco",
+        "objeto": "Contratação de serviços de consultoria individual especializada em gestão de projetos para apoio técnico à SEPLAN/DIRPLA na apropriação institucional, operacionalização assistida e consolidação das rotinas do escritório de projetos, no âmbito do Programa de Sustentabilidade Fiscal, Eficiência e Eficácia do Gasto de Público do Estado do Acre - PROGESTÃO",
+        "dataPublicacao": "2026-09-30T11:50:27",
+        "numeroControlePNCP": "63606479000124-1-000552/2026",
+        "linkSistemaOrigem": null
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260830&dataFinal=20260929&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260831&dataFinal=20260930&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
     ]
   }
 }
