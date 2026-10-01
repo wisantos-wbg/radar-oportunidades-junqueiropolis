@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-09-30",
+    "geradoEm": "2026-10-01",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -74,24 +74,14 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-09-30",
+    "geradoEm": "2026-10-01",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
       "Credenciamento"
     ],
-    "totalAvisos": 25,
+    "totalAvisos": 24,
     "avisos": [
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "MUNICIPIO DE SOROCABA",
-        "uf": "SP",
-        "municipio": "Sorocaba",
-        "objeto": "RP MEDICAMENTOS NFB/NDC P/ ATENDER A RED E MUNICIPAL DE SAUDE",
-        "dataPublicacao": "2026-08-31T08:29:04",
-        "numeroControlePNCP": "46634044000174-1-000200/2026",
-        "linkSistemaOrigem": ""
-      },
       {
         "modalidade": "Manifestação de Interesse",
         "orgao": "MUNICIPIO DE CAMPOS DO JORDAO",
@@ -334,7 +324,7 @@
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260831&dataFinal=20260930&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260901&dataFinal=20261001&codigoModalidadeContratacao=12&pagina=27&tamanhoPagina=50"
     ]
   }
 }
