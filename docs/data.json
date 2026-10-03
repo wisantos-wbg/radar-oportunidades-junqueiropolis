@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-10-02",
+    "geradoEm": "2026-10-03",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -74,13 +74,13 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-10-02",
+    "geradoEm": "2026-10-03",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
       "Credenciamento"
     ],
-    "totalAvisos": 24,
+    "totalAvisos": 22,
     "avisos": [
       {
         "modalidade": "Manifestação de Interesse",
@@ -150,26 +150,6 @@
         "objeto": "RP DE AVENTAL MANGA LONGA E CAMPOS CIRUR GICOS FENESTRADO E SIMPLES PARA A RMS",
         "dataPublicacao": "2026-09-23T15:50:13",
         "numeroControlePNCP": "46634044000174-1-000230/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "SECRETARIA MUNICIPAL DA INFRAESTRUTURA, DESENVOLVIMENTO URBANO E MOBILIDADE",
-        "uf": "TO",
-        "municipio": "Porto Nacional",
-        "objeto": "SOLICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE PNEUS E CÂMARAS DE AR, VISANDO ATENDER ÀS DEMANDAS DA FROTA VEICULAR DA SECRETARIA MUNICIPAL DE INFRAESTRUTURA, DESENVOLVIMENTO URBANO E HABITAÇÃO E DEMAIS SECRETARIAS PARTICIPANTES DO MUNICÍPIO DE PORTO NACIONAL -\nTO.",
-        "dataPublicacao": "2026-09-02T09:22:42",
-        "numeroControlePNCP": "27029184000179-1-000002/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "MUNICIPIO DE BARRA DO CORDA",
-        "uf": "MA",
-        "municipio": "Barra do Corda",
-        "objeto": "Adesão de Ata de Registro de Preços para contratação de empresa especializada para prestação de serviços de saúde itinerante a ser realizado em Unidade Móvel equipada para realização de consultas e exames nas áreas de oftalmologia, conciliada a realização de exames de avaliação da acuidade visual com e sem correção (ou seja, com e sem óculos), com fornecimento de óculos, para atendimento do município de Barra do Corda-MA,",
-        "dataPublicacao": "2026-09-02T13:11:45",
-        "numeroControlePNCP": "06769798000117-1-000149/2026",
         "linkSistemaOrigem": ""
       },
       {
@@ -324,7 +304,7 @@
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260902&dataFinal=20261002&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260903&dataFinal=20261003&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
     ]
   }
 }
