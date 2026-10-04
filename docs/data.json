@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-10-03",
+    "geradoEm": "2026-10-04",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -74,13 +74,13 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-10-03",
+    "geradoEm": "2026-10-04",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
       "Credenciamento"
     ],
-    "totalAvisos": 22,
+    "totalAvisos": 20,
     "avisos": [
       {
         "modalidade": "Manifestação de Interesse",
@@ -151,26 +151,6 @@
         "dataPublicacao": "2026-09-23T15:50:13",
         "numeroControlePNCP": "46634044000174-1-000230/2026",
         "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "PERNAMBUCO TRIBUNAL DE JUSTICA",
-        "uf": "PE",
-        "municipio": "Recife",
-        "objeto": "Manifestação de Interesse - aquisição de caixas de papelão",
-        "dataPublicacao": "2026-09-03T10:07:05",
-        "numeroControlePNCP": "11431327000134-1-000093/2026",
-        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/112486"
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "MUNICIPIO DE POCOS DE CALDAS",
-        "uf": "MG",
-        "municipio": "Poços de Caldas",
-        "objeto": "SELEÇÃO DE PESSOAS FÍSICAS OU JURÍDICAS DE DIREITO PRIVADO, INDIVIDUALMENTE OU EM GRUPO, INTERESSADAS NA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS, LEVANTAMENTOS, INVESTIGAÇÕES E ESTUDOS TÉCNICOS QUE SUBSIDIEM A ESTRUTURAÇÃO DE FUTURA CONCESSÃO OU PARCERIA PÚBLICO-PRIVADA (PPP) PARA A REQUALIFICAÇÃO, REVITALIZAÇÃO, MODERNIZAÇÃO, OPERAÇÃO E GESTÃO INTEGRADA DO PARQUE MUNICIPAL DR. ANTÔNIO MOLINARI E DO COMPLEXO AQUÁTICO COUNTRY CLUB DE POÇOS DE CALDAS  SECRETARIA MUNICIPAL DE ESPORTES",
-        "dataPublicacao": "2026-09-03T18:49:01",
-        "numeroControlePNCP": "18629840000183-1-000148/2026",
-        "linkSistemaOrigem": null
       },
       {
         "modalidade": "Manifestação de Interesse",
@@ -304,7 +284,7 @@
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260903&dataFinal=20261003&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260904&dataFinal=20261004&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
     ]
   }
 }
