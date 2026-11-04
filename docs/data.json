@@ -214,7 +214,7 @@
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20261005&dataFinal=20261104&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20261005&dataFinal=20261104&codigoModalidadeContratacao=12&pagina=11&tamanhoPagina=50"
     ]
   }
 }
