@@ -30,13 +30,31 @@ def _cached_get_url(url: str, params: dict, cache_key: str) -> dict | None:
     if cache_file.exists() and (time.time() - cache_file.stat().st_mtime) < CACHE_TTL_SECONDS:
         return json.loads(cache_file.read_text(encoding="utf-8"))
 
-    resp = requests.get(url, params=params, timeout=30)
-    if resp.status_code == 404:
-        return None
-    resp.raise_for_status()
-    data = resp.json()
-    cache_file.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
-    return data
+    # A API pública do Transferegov falha de forma intermitente (timeout, 502/503,
+    # reset de conexão) — foi o que derrubou as execuções agendadas de 03/11 e
+    # 04/11 (exit code 1, nada publicado). Agora tentamos de novo antes de desistir.
+    ultimo_erro: Exception | None = None
+    for tentativa in range(3):
+        try:
+            resp = requests.get(url, params=params, timeout=30)
+        except requests.exceptions.RequestException as e:
+            ultimo_erro = e
+            if tentativa < 2:
+                time.sleep(2 * (tentativa + 1))
+                continue
+            raise
+        if resp.status_code == 404:
+            return None
+        if resp.status_code in (429, 500, 502, 503, 504) and tentativa < 2:
+            ultimo_erro = requests.exceptions.HTTPError(f"{resp.status_code} em {url}", response=resp)
+            time.sleep(2 * (tentativa + 1))
+            continue
+        resp.raise_for_status()
+        data = resp.json()
+        cache_file.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        return data
+
+    raise ultimo_erro
 
 
 def _cached_get(path: str, params: dict, cache_key: str) -> dict:
@@ -85,7 +103,10 @@ def valor_proposta(proposta: dict) -> float:
 
 def calcular_gap(programas_abertos: list[dict], propostas: list[dict]) -> list[dict]:
     ids_usados = {p.get("id_programa") for p in propostas}
-    return [p for p in programas_abertos if p["id_programa"] not in ids_usados]
+    return [
+        p for p in programas_abertos
+        if p.get("id_programa") is not None and p["id_programa"] not in ids_usados
+    ]
 
 
 def url_portal_programa(id_programa: int) -> str:
@@ -115,7 +136,7 @@ def get_programa_detalhe(id_programa: int) -> dict | None:
 
 
 def gerar_minuta(programa: dict) -> str:
-    detalhe = get_programa_detalhe(programa["id_programa"])
+    detalhe = get_programa_detalhe(programa.get("id_programa"))
     bloco_link = f"\nEDITAL/PROGRAMA NO PORTAL: {detalhe['url']}\n" if detalhe else ""
     bloco_captacao = ""
     if detalhe and (detalhe["captacaoInicio"] or detalhe["captacaoFim"]):
@@ -177,18 +198,24 @@ def montar_radar() -> dict:
     propostas = get_propostas_municipio()
     gap = calcular_gap(programas_abertos, propostas)
     todos_programas = get_todos_programas()
-    orgao_por_programa = {p["id_programa"]: p.get("nm_ente_repassador") for p in todos_programas}
+    orgao_por_programa = {
+        p["id_programa"]: p.get("nm_ente_repassador")
+        for p in todos_programas if p.get("id_programa") is not None
+    }
 
     oportunidades = []
     for p in gap:
-        detalhe = get_programa_detalhe(p["id_programa"])
+        id_programa = p.get("id_programa")
+        if id_programa is None:
+            continue
+        detalhe = get_programa_detalhe(id_programa)
         oportunidades.append({
-            "idPrograma": p["id_programa"],
+            "idPrograma": id_programa,
             "cdPrograma": p.get("cd_programa"),
             "nmPrograma": p.get("nm_programa"),
             "nmEnteRepassador": p.get("nm_ente_repassador"),
             "tpInstrumento": p.get("tp_instrumento"),
-            "urlPortal": detalhe["url"] if detalhe else url_portal_programa(p["id_programa"]),
+            "urlPortal": detalhe["url"] if detalhe else url_portal_programa(id_programa),
             "captacaoInicio": detalhe["captacaoInicio"] if detalhe else None,
             "captacaoFim": detalhe["captacaoFim"] if detalhe else None,
             "condicionantes": detalhe["condicionantes"] if detalhe else [],

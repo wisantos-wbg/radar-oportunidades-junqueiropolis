@@ -1,4 +1,6 @@
+import html
 import json
+from datetime import date
 from pathlib import Path
 
 import transferegov_radar as tg
@@ -66,6 +68,7 @@ footer{max-width:1100px;margin:2rem auto;padding:0 2rem 2rem;color:var(--muted);
   </div>
 
   <h2>Transferegov — oportunidades abertas ainda não usadas</h2>
+  __TG_AVISO_HTML__
   <div class="card">
     <table>
       <thead><tr><th>Programa</th><th>Órgão repassador</th><th>Instrumento</th><th>Prazo captação</th><th></th></tr></thead>
@@ -158,9 +161,47 @@ renderOportunidades(); renderPncp(); renderHistorico();
 """
 
 
+def _radar_tg_vazio(erro: str) -> dict:
+    return {
+        "geradoEm": date.today().isoformat(),
+        "municipio": tg.NOME_MUNICIPIO,
+        "ibge": tg.IBGE_JUNQUEIROPOLIS,
+        "totalProgramasAbertos": 0,
+        "valorHistoricoCaptado": 0,
+        "oportunidades": [],
+        "historico": [],
+        "erro": erro,
+    }
+
+
+def _radar_pncp_vazio(erro: str) -> dict:
+    return {
+        "geradoEm": date.today().isoformat(),
+        "janelaDias": pncp.JANELA_DIAS,
+        "modalidadesConsultadas": list(pncp.MODALIDADES_INTERESSE.values()),
+        "totalAvisos": 0,
+        "avisos": [],
+        "erros": [erro],
+    }
+
+
 def gerar():
-    radar_tg = tg.montar_radar()
-    radar_pncp = pncp.montar_radar_pncp()
+    # Antes, uma falha de rede em qualquer uma das duas fontes (Transferegov ou
+    # PNCP) derrubava o script inteiro com exit code 1 e o painel parava de
+    # atualizar (foi o que aconteceu nas execuções agendadas de 03/11 e 04/11).
+    # Agora cada fonte falha "sozinha": se uma cair, a outra ainda é publicada,
+    # com um aviso visível no lugar da que faltou.
+    try:
+        radar_tg = tg.montar_radar()
+    except Exception as e:
+        print(f"[aviso] Transferegov indisponível, publicando painel sem essa seção: {e}")
+        radar_tg = _radar_tg_vazio(str(e))
+
+    try:
+        radar_pncp = pncp.montar_radar_pncp()
+    except Exception as e:
+        print(f"[aviso] PNCP indisponível, publicando painel sem essa seção: {e}")
+        radar_pncp = _radar_pncp_vazio(str(e))
 
     for h in radar_tg["historico"]:
         h["valorFmt"] = fmt_brl(h["valor"])
@@ -170,9 +211,18 @@ def gerar():
 
     aviso_pncp_html = ""
     if radar_pncp.get("erros"):
-        aviso_pncp_html = "".join(f'<div class="aviso">⚠ {e}</div>' for e in radar_pncp["erros"])
+        aviso_pncp_html = "".join(
+            f'<div class="aviso">⚠ {html.escape(e)}</div>' for e in radar_pncp["erros"]
+        )
 
-    html = (TEMPLATE
+    aviso_tg_html = ""
+    if radar_tg.get("erro"):
+        aviso_tg_html = (
+            f'<div class="aviso">⚠ Transferegov indisponível no momento da geração: '
+            f'{html.escape(radar_tg["erro"])}</div>'
+        )
+
+    pagina_html = (TEMPLATE
             .replace("__DADOS_JSON__", dados_json)
             .replace("__GERADO_EM__", radar_tg["geradoEm"])
             .replace("__TOTAL_ABERTOS__", str(radar_tg["totalProgramasAbertos"]))
@@ -180,10 +230,11 @@ def gerar():
             .replace("__VALOR_HISTORICO__", fmt_brl(radar_tg["valorHistoricoCaptado"]))
             .replace("__TOTAL_PNCP__", str(radar_pncp["totalAvisos"]))
             .replace("__JANELA_DIAS__", str(radar_pncp["janelaDias"]))
-            .replace("__PNCP_AVISOS_HTML__", aviso_pncp_html))
+            .replace("__PNCP_AVISOS_HTML__", aviso_pncp_html)
+            .replace("__TG_AVISO_HTML__", aviso_tg_html))
 
     OUT_HTML.parent.mkdir(exist_ok=True)
-    OUT_HTML.write_text(html, encoding="utf-8")
+    OUT_HTML.write_text(pagina_html, encoding="utf-8")
     OUT_JSON.write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"painel: {OUT_HTML} | {len(radar_tg['oportunidades'])} oportunidades Transferegov | "
           f"{radar_pncp['totalAvisos']} avisos PNCP | {OUT_HTML.stat().st_size // 1024} KB")
