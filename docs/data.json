@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-11-18",
+    "geradoEm": "2026-11-19",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -82,7 +82,7 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-11-18",
+    "geradoEm": "2026-11-19",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
@@ -342,7 +342,7 @@
       }
     ],
     "erros": [
-      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20261019&dataFinal=20261118&codigoModalidadeContratacao=12&pagina=36&tamanhoPagina=50"
+      "Falha ao consultar modalidade 12 (Credenciamento): 429 Client Error: Too Many Requests for url: https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20261020&dataFinal=20261119&codigoModalidadeContratacao=12&pagina=7&tamanhoPagina=50"
     ]
   }
 }
