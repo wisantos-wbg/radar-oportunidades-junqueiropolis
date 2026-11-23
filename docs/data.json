@@ -1,6 +1,6 @@
 {
   "transferegov": {
-    "geradoEm": "2026-11-22",
+    "geradoEm": "2026-11-23",
     "municipio": "Junqueirópolis",
     "ibge": 3526001,
     "totalProgramasAbertos": 0,
@@ -82,134 +82,14 @@
     ]
   },
   "pncp": {
-    "geradoEm": "2026-11-22",
+    "geradoEm": "2026-11-23",
     "janelaDias": 30,
     "modalidadesConsultadas": [
       "Manifestação de Interesse",
       "Credenciamento"
     ],
-    "totalAvisos": 1682,
+    "totalAvisos": 1618,
     "avisos": [
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE GUARUJA",
-        "uf": "SP",
-        "municipio": "Guarujá",
-        "objeto": "CREDENCIAMENTO PMCMV ",
-        "dataPublicacao": "2026-10-23T08:24:08",
-        "numeroControlePNCP": "44959021000104-1-000357/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE PRESIDENTE PRUDENTE",
-        "uf": "SP",
-        "municipio": "Presidente Prudente",
-        "objeto": "Credenciamento de pessoas jurídicas de direito privado para o fornecimento de armações e lentes\ncorretivas para óculos de grau (óculos completos), destinados a pacientes da Rede Municipal de Saúde e\nestudantes da Rede Municipal de Educação de Presidente Prudente/SP, de forma complementar ao Sistema\nÚnico de Saúde\n– SUS, no âmbito do Programa “Olhar que Transforma”.\n",
-        "dataPublicacao": "2026-10-23T11:04:07",
-        "numeroControlePNCP": "55356653000108-1-000268/2026",
-        "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/117308"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE EMBU DAS ARTES",
-        "uf": "SP",
-        "municipio": "Embu das Artes",
-        "objeto": "EDITAL 5 ARTISTAS ",
-        "dataPublicacao": "2026-10-23T11:14:21",
-        "numeroControlePNCP": "46523114000117-1-000272/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE BREJO ALEGRE",
-        "uf": "SP",
-        "municipio": "Brejo Alegre",
-        "objeto": "Aquisição de Gêneros Alimentícios (hortifrutigranjeiro) da Agricultura Familiar e do Empreendedor Familiar Rural, em atendimento ao Programa Nacional de Alimentação Escolar-PNAE",
-        "dataPublicacao": "2026-10-23T12:19:10",
-        "numeroControlePNCP": "01614087000150-1-000387/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE FRANCISCO MORATO",
-        "uf": "SP",
-        "municipio": "Francisco Morato",
-        "objeto": "Objetivo da presente Chamada Pública é a seleção  de projetos culturais a receberem repasse financeiro, para execução de propostas que incentivem as diversas formas de manifestações  culturais do Município de Francisco Morato",
-        "dataPublicacao": "2026-10-23T13:05:39",
-        "numeroControlePNCP": "46523072000114-1-000133/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDACAO CULTURAL CASSIANO RICARDO",
-        "uf": "SP",
-        "municipio": "São José dos Campos",
-        "objeto": "NÚMERO DO CREDENCIAMENTO: 003 EDITAL; 009/FCCR/2023 OBJETO: CIRCULAÇÃO E DIFUSÃO DE PROPOSTAS ARTÍSTICAS CONVOCATÓRIA Nº 027/2026",
-        "dataPublicacao": "2026-10-23T14:52:17",
-        "numeroControlePNCP": "45395704000149-1-000631/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SAO JOSE DO RIO PRETO",
-        "uf": "SP",
-        "municipio": "São José do Rio Preto",
-        "objeto": "ABERTURA DE EDITAL DE CHAMAMENTO PÚBLICO 07/2026-SMC/PNAB - FOMENTO A PROJETOS\nCONTINUADOS DE PONTOS DE CULTURA, QUE TEM POR OBJETO A SELEÇÃO DE 03 (TRÊS) PROJETOS DE PONTOS DE\nCULTURA QUE PROMOVAM O ACESSO DA POPULAÇÃO AOS BENS E AOS SERVIÇOS CULTURAIS NOS TERRITÓRIOS E\nCOMUNIDADES ONDE ATUAM, NOS TERMOS DA POLÍTICA NACIONAL DE CULTURA VIVA",
-        "dataPublicacao": "2026-10-23T15:15:07",
-        "numeroControlePNCP": "46588950000180-1-000986/2026",
-        "linkSistemaOrigem": "https://www.riopreto.sp.gov.br/PublicaLicitacao"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SAO JOSE DO RIO PRETO",
-        "uf": "SP",
-        "municipio": "São José do Rio Preto",
-        "objeto": "ABERTURA DE EDITAL DE CHAMAMENTO PÚBLICO 08/2026-SMC/PNAB - PREMIAÇÃO DE PONTOS E PONTÕES\nDE CULTURA, QUE TEM POR OBJETO A PREMIAÇÃO DE 12 (DOZE) INICIATIVAS, ATIVIDADES OU AÇÕES JÁ REALIZADAS\nPOR PONTOS E PONTÕES DE CULTURA, NOS TERMOS DA POLÍTICA NACIONAL DE CULTURA VIVA",
-        "dataPublicacao": "2026-10-23T15:15:11",
-        "numeroControlePNCP": "46588950000180-1-000987/2026",
-        "linkSistemaOrigem": "https://www.riopreto.sp.gov.br/PublicaLicitacao"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE JUNDIAI",
-        "uf": "SP",
-        "municipio": "Jundiaí",
-        "objeto": "CREDENCIAMENTO PARA ESCOLAS PRIVADAS PARA ATENDIMENTO ÀS CRIANÇAS DE 04 (QUATRO) MESES A 03 (TRÊS) ANOS DE IDADE - SME",
-        "dataPublicacao": "2026-10-23T15:45:10",
-        "numeroControlePNCP": "45780103000150-1-001196/2026",
-        "linkSistemaOrigem": "https://compraaberta.jundiai.sp.gov.br/licitacoes/"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA",
-        "uf": "SP",
-        "municipio": "Araraquara",
-        "objeto": "Aquisição de Gêneros Alimentícios Hortifrutigranjeiros, leite e derivados, para o período de outubro a dezembro de 2026,\natravés do Programa Paulista de Agricultura e Interesse Social – PPAIS, (entrega parcelada a critério da Administração), por\nInexigibilidade de licitação.",
-        "dataPublicacao": "2026-10-23T16:22:50",
-        "numeroControlePNCP": "96291141000180-1-007289/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CRAVINHOS",
-        "uf": "SP",
-        "municipio": "Cravinhos",
-        "objeto": "Coleta de materiais reciclaveis",
-        "dataPublicacao": "2026-10-23T16:32:46",
-        "numeroControlePNCP": "45228319000107-1-000218/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE TIETE",
-        "uf": "SP",
-        "municipio": "Tietê",
-        "objeto": "Contratação de instrutor(a) desportivo para a modalidade de: KickBoxing oferecida à população através da Secretaria de Esportes, Juventude e Lazer, sendo a carga horária de 08 horas semanais, com estimado anual de 416 horas.",
-        "dataPublicacao": "2026-10-23T16:46:14",
-        "numeroControlePNCP": "46634598000171-1-000491/2026",
-        "linkSistemaOrigem": ""
-      },
       {
         "modalidade": "Credenciamento",
         "orgao": "MUNICIPIO DE QUATA",
@@ -2162,782 +2042,42 @@
       },
       {
         "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE NOVA TRENTO",
-        "uf": "SC",
-        "municipio": "Nova Trento",
-        "objeto": "Credenciamento de empresas interessadas na outorga de permissão onerosa para a prestação de serviços \nfunerários no Município de Nova Trento, nos termos do Decreto Municipal nº 211/2024, abrangendo atividades \ncomo fornecimento de urnas, transporte de cadáveres, preparação e conservação de corpos, organização de \nvelórios, ornamentação e demais serviços correlatos, a serem prestados diretamente aos usuários, por conta e \nrisco das permissionárias, observadas as normas sanitárias, legais e regulamentares vigentes e as condições \nestabelecidas no Termo de Referência e demais instrumentos vinculados., em conformidade com a Tabela \nReferencial adotada pelo Município.",
-        "dataPublicacao": "2026-10-23T07:58:14",
-        "numeroControlePNCP": "82925025000160-1-000112/2026",
+        "orgao": "MUNICIPIO DE AGUAI",
+        "uf": "SP",
+        "municipio": "Aguaí",
+        "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO PARA CONTRATAÇÃO DE EMPRESAS ESPECIALIZADAS EM SERVIÇOS DE ARBITRAGEM ESPORTIVA.",
+        "dataPublicacao": "2026-11-23T08:53:29",
+        "numeroControlePNCP": "46425229000179-1-000147/2026",
+        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/SP/Prefeitura-Municipal-de-Aguai-2725/CRED-5-2026-2026-526788"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE ATIBAIA",
+        "uf": "SP",
+        "municipio": "Atibaia",
+        "objeto": "Credenciamento de profissionais, instrutores, docentes e especialistas, pessoas físicas ou jurídicas (MEI)quando compatível com a natureza da atividade, para prestação de serviços de capacitação, treinamento e qualificação profissional no ambito do Núcleo Profissionalizante Municipal.",
+        "dataPublicacao": "2026-11-23T09:18:34",
+        "numeroControlePNCP": "45279635000108-1-001012/2026",
         "linkSistemaOrigem": ""
       },
       {
         "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SEARA",
-        "uf": "SC",
-        "municipio": "Seara",
-        "objeto": "CREDENCIAMENTO PARA FORNECIMENTO DE REFEIÇÕES PRONTAS COM PESO MÍNIMO INDIVIDUAL DE 850 (OITOCENTOS E CINQUENTA) GRAMAS, PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SEARA.",
-        "dataPublicacao": "2026-10-23T08:18:56",
-        "numeroControlePNCP": "83024505000113-1-000290/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE TENENTE PORTELA",
-        "uf": "RS",
-        "municipio": "Tenente Portela",
-        "objeto": "Contratação de empresa (s) especializada (s) para a prestação de serviços de confecção, impressão, acabamento e fornecimento de materiais gráficos diversos, conforme especificações e quantitativos estimados.",
-        "dataPublicacao": "2026-10-23T08:36:15",
-        "numeroControlePNCP": "87613089000140-1-000139/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CANELA",
-        "uf": "RS",
-        "municipio": "Canela",
-        "objeto": "[Portal de Compras Públicas] - O objeto a ser credenciado é a contratação de empresas especializadas na área da saúde, para prestação de serviços de exames laboratoriais de análises clínicas para usuários do SUS, visando o atendimento aos Usuários do Sistema Único de Saúde – SUS, a fim de atender a demanda da Secretaria Municipal de Saúde, conforme especificações e quantitativos estabelecidos no quadro abaixo e detalhados, exame a exame, no Anexo A.",
-        "dataPublicacao": "2026-10-23T08:50:22",
-        "numeroControlePNCP": "88585518000185-1-000651/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Canela-909/CRED-07-2026-2026-520659"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CONFRESA",
-        "uf": "MT",
-        "municipio": "Confresa",
-        "objeto": "CONTRATAÇÃO DE EMPRESA PARA EVENTUAL AQUISIÇÃO DE ÁGUA MINERAL (incluindo recipientes para acondicionamento) E GÁS LIQUEFEITO DE PETRÓLEO - GLP",
-        "dataPublicacao": "2026-10-23T08:51:20",
-        "numeroControlePNCP": "37464716000150-1-000101/2026",
-        "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]oBp6mrMS95jgsT7vonKZaXFyOSnjHugDPiNPjQl1ULGMqF4uRsnGUXa65U4q69Ih9r5PsnYRHiRL9d45dSCTkbe/W7vBTnltRQzw8Ds/rU4="
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE MUZAMBINHO",
-        "uf": "MG",
-        "municipio": "Muzambinho",
-        "objeto": " CREDENCIAMENTO para a seleção de empresas especializadas para a prestação de serviços em saúde em diversas especialidades abrangendo consultas médicas especializadas, exames diagnósticos, procedimentos e serviços de apoio diagnóstico, incluindo a emissão de laudos, de forma complementar à rede de assistência à saúde do Município de Muzambinho/MG, no âmbito do Sistema Único de Saúde (SUS).",
-        "dataPublicacao": "2026-10-23T09:00:13",
-        "numeroControlePNCP": "18668624000147-1-000091/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE FIRMINOPOLIS",
-        "uf": "GO",
-        "municipio": "Firminópolis",
-        "objeto": "SOLICITAÇÃO DE SERVIÇOS DE VIDRACEIRO E ADEQUAÇÃO DE VÃOS DE JANELAS NO ESTÁDIO MUNICIPAL JOSÉ DE PAULA PEDROSA.",
-        "dataPublicacao": "2026-10-23T09:01:54",
-        "numeroControlePNCP": "02321917000113-1-000103/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE CANARANA",
-        "uf": "BA",
-        "municipio": "Canarana",
-        "objeto": "O presente credenciamento visa a contratação de pessoas físicas e  jurídicas para prestação de serviços na área de saúde para realização de consultas, procedimentos médicos especializados e exames para atender as necessidades da Secretaria Municipal de Saúde do municipio de Canarana - BA, conforme as especificações e condições constantes neste Edital.",
-        "dataPublicacao": "2026-10-23T09:06:46",
-        "numeroControlePNCP": "11457534000168-1-000011/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE PRATA",
-        "uf": "MG",
-        "municipio": "Prata",
-        "objeto": "credenciamento de pessoas jurídicas para a prestação de serviços de confecção de cópias de chaves, carimbos e demais serviços e materiais correlatos, que são fundamentais para o bom andamento do serviço administrativo desenvolvido nas instalações públicas, refletindo diretamente em um atendimento célere para o cidadão e na segurança do patrimônio público, bem como de outras áreas no âmbito das dependências da Prefeitura do Prata.",
-        "dataPublicacao": "2026-10-23T09:07:04",
-        "numeroControlePNCP": "18260505000150-1-000205/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "CONSORCIO INT DE SAUDE DA COM DOS M DA REG DE C MOURAO",
-        "uf": "PR",
-        "municipio": "Campo Mourão",
-        "objeto": "Contratação de Pessoas Jurídica atuante na área da saúde para prestação de serviços nas especialidades constantes na Tabela de Valores Objeto do Chamamento Público n°1/2025",
-        "dataPublicacao": "2026-10-23T09:20:18",
-        "numeroControlePNCP": "95640322000101-1-000089/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CAMPO FORMOSO",
-        "uf": "BA",
-        "municipio": "Campo Formoso",
-        "objeto": "CREDENCIAMENTO DE PESSOAS JURÍDICAS LEGALMENTE CONSTITUÍDAS E TECNICAMENTE HABILITADAS, CARACTERIZADAS COMO LABORATÓRIOS REGIONAIS DE PRÓTESE DENTÁRIA – LRPD, PARA A PRESTAÇÃO, DE FORMA CONTINUADA E SOB DEMANDA, DE SERVIÇOS LABORATORIAIS ESPECIALIZADOS DE CONFECÇÃO DE PRÓTESES DENTÁRIAS SOB MEDIDA, DESTINADAS AOS USUÁRIOS DO SISTEMA ÚNICO DE SAÚDE – SUS DO MUNICÍPIO DE CAMPO FORMOSO/BA.",
-        "dataPublicacao": "2026-10-23T09:35:34",
-        "numeroControlePNCP": "13908702000110-1-000199/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CARIRE",
-        "uf": "CE",
-        "municipio": "Cariré",
-        "objeto": "CREDENCIAMENTO DE EMPRESAS PARA PRESTAÇÃO DOS SERVIÇOS DE MANUTENÇÃO, INSTALAÇÃO E REINSTALAÇÃO DE AR-CONDICIONADOS, PARA ATENDER ÀS NECESSIDADES DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE CARIRÉ-CE.",
-        "dataPublicacao": "2026-10-23T09:39:51",
-        "numeroControlePNCP": "07598600000142-1-000214/2026",
-        "linkSistemaOrigem": "https://prefeitura-carire.compraspublica.com/licitacoes/csyifx5nz5wwjv"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "CONSORCIO INT DE SAUDE DA COM DOS M DA REG DE C MOURAO",
-        "uf": "PR",
-        "municipio": "Campo Mourão",
-        "objeto": "Contratação de Pessoas Jurídica atuante na área da saúde para prestação de serviços nas especialidades constantes na Tabela de Valores Objeto do Chamamento Público n°1/2025",
-        "dataPublicacao": "2026-10-23T09:41:48",
-        "numeroControlePNCP": "95640322000101-1-000090/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SANTA FE DE GOIAS",
-        "uf": "GO",
-        "municipio": "Santa Fé de Goiás",
-        "objeto": "ABERTURA DE CREDENCIAMENTO PARA CONTRATAÇÃO DE LEILOEIRO PARA PREFEITURA MUNICIPAL.",
-        "dataPublicacao": "2026-10-23T09:42:39",
-        "numeroControlePNCP": "25107517000105-1-000195/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE VOLTA REDONDA",
-        "uf": "RJ",
-        "municipio": "Volta Redonda",
-        "objeto": "Chamamento para seleção de projetos de folia de reis  \"Premio de cultura popular jornadas São Sebastião edição 2027\"",
-        "dataPublicacao": "2026-10-23T09:59:50",
-        "numeroControlePNCP": "32512501000143-1-000439/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE ESTEIO",
-        "uf": "RS",
-        "municipio": "Esteio",
-        "objeto": "CREDENCIAMENTO DE PESSOAS  FÍSICAS E/OU JURÍDICAS, INCLUINDO MEI'S, PARA PRESTAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO E EXECUÇÃO DE OFICINAS ESPORTIVAS, CULTURAIS E SOCIOASSISTENCIAIS NOS CAPS, CERPICS, EMULTI, ACADEMIAS DE SAÚDE E UBS - SMS - SOL. 160681",
-        "dataPublicacao": "2026-10-23T10:01:20",
-        "numeroControlePNCP": "88150495000186-1-000456/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CONFINS",
-        "uf": "MG",
-        "municipio": "Confins",
-        "objeto": "OBJETO: CHAMADA PÚBLICA PARA CREDENCIAMENTO  DE MICROEMPREENDEDORES INDIVIDUAIS-MEI PARA PRESTAÇÃO DE SERVIÇOS DE APOIO E CUIDADO A PESSOAS IDOSAS E PESSOAS COM DEFICIÊNCIA NO ÂMBITO DO PROGRAMA JUNTOS NO CUIDADO, VISANDO À EXECUÇÃO DO SERVIÇO DE PROTEÇÃO SOCIAL BÁSICA NO DOMICÍLIO PARA PESSOAS IDOSAS EOU COM DEFICIÊNCIA, TIPIFICADO PELA RESOLUÇÃO CNAS N 1092009.",
-        "dataPublicacao": "2026-10-23T10:06:16",
-        "numeroControlePNCP": "01006232000110-1-000075/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE NOVO HAMBURGO",
-        "uf": "RS",
-        "municipio": "Novo Hamburgo",
-        "objeto": "CHAMAMENTO PÚBLICO PARA IMPLANTAÇÃO E EXECUÇÃO DO SERVIÇO DE ACOLHIMENTO INSTITUCIONAL (SAI), NA MODALIDADE DE ABRIGO INSTITUCIONAL, NO MUNICÍPIO DE NOVO HAMBURGO.",
-        "dataPublicacao": "2026-10-23T10:06:41",
-        "numeroControlePNCP": "88254875000160-1-000513/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE PRAINHA",
-        "uf": "PA",
-        "municipio": "Prainha",
-        "objeto": "CREDENCIAMENTO DE PESSOA FÍSICA OU JURÍDICA, COM OU SEM FINS LUCRATIVOS, PARA PRESTAÇÃO DE SERVIÇOS DE SAÚDE, INCLUINDO PLANTÕES MÉDICOS 24 HORAS, DESTINADOS AO ATENDIMENTO DAS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE DE PRAINHA/PA E DA POPULAÇÃO USUÁRIA DO SISTEMA ÚNICO DE SAÚDE ? SUS",
-        "dataPublicacao": "2026-10-23T10:10:51",
-        "numeroControlePNCP": "04860854000107-1-000034/2026",
-        "linkSistemaOrigem": "https://www.governotransparente.com.br/transparencia/45219483/consultarlicitacao?datainfo=MTIwMjMxMDIzMTkyNFBQUA==&clean=false"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE TIRADENTES DO SUL",
-        "uf": "RS",
-        "municipio": "Tiradentes do Sul",
-        "objeto": "CONTRATAÇÃO DE EMPRESAS DO RAMO PARA PRESTAÇÃO DE SERVIÇOS PARA CONSERTO DE MÁQUINAS FERRAMENTAS DE PEQUENO PORTE MOVIDOS A MOTOR A COMBUSTÃO COMO ROÇADEIRAS, MOTOSSERRAS E ELETRODOMÉSTICOS ",
-        "dataPublicacao": "2026-10-23T10:21:53",
-        "numeroControlePNCP": "94726320000177-1-000144/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE DO CARIRI OCIDENTAL",
-        "uf": "PB",
-        "municipio": "Sumé",
-        "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS JURÍDICAS PARA A PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE SAÚDE, COMPREENDENDO A REALIZAÇÃO DE ULTRASSONOGRAFIAS, PARA ATENDIMENTO DAS NECESSIDADES DO CONSÓRCIO PÚBLICO INTERMUNICIPAL DE SAÚDE DO CARIRI OCIDENTAL - CISCO",
-        "dataPublicacao": "2026-10-23T10:24:57",
-        "numeroControlePNCP": "02471378000107-1-000027/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/PB/Consorcio-Publico-Intermunicipal-de-Saude-do-Cariri-Ocidental-CISCO-3013/CRED-00004-2026-2026-520722"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SERRA DOURADA",
-        "uf": "BA",
-        "municipio": "Serra Dourada",
-        "objeto": "Credenciamento de pessoas jurídicas especializadas para a formação de rede complementar destinada à prestação, por demanda, dos serviços de apoio ao atendimento educacional especializado (Cadastro Inicial e Atualização Cadastral; Avaliação Psicopedagógica; Avaliação Biopsicossocial; Avaliação Neuropsicológica; Avaliação Médico-Educacional; e elaboração e revisão do PEI e do PAEE), no âmbito do Centro Neuza Frota de Souza, com fundamento no art. 6º, inciso XLIII, no art. 74, inciso IV, no art. 78, inciso I, e no art. 79, inciso I, da Lei nº 14.133/2021, nos termos do Edital nº 018, de Credenciamento nº 07/2026. ",
-        "dataPublicacao": "2026-10-23T10:25:53",
-        "numeroControlePNCP": "14222277000173-1-000042/2026",
-        "linkSistemaOrigem": "sai.io.org.br/site/PublicadoPncp/172707?localConsulta=2&cod=1884"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE VARZEA DA ROCA",
-        "uf": "BA",
-        "municipio": "Várzea da Roça",
-        "objeto": "[LICITANET] - CREDENCIAMENTO PARA CONTRATAÇÃO DE EMPRESAS PARA PRESTAÇÃO DE SERVIÇOS DE LIMPEZA DE FOSSA E DEDETIZAÇÃO, VISANDO ATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS DO MUNICÍPIO DE VÁRZEA DA ROÇA – BA.",
-        "dataPublicacao": "2026-10-23T10:31:26",
-        "numeroControlePNCP": "13896758000100-1-000197/2025",
-        "linkSistemaOrigem": "https://licitanet.com.br/sessao/161704"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CAIRU",
-        "uf": "BA",
-        "municipio": "Cairu",
-        "objeto": "Credenciamento de pessoas jurídicas especializadas na prestação de serviços de agenciamento de viagens, compreendendo a emissão, remarcação, cancelamento e reembolso de passagens aéreas, nacionais e internacionais, bem como a intermediação de reservas e fornecimento de serviços de hospedagem e seguro de viagem, destinados ao atendimento das demandas institucionais da Administração Municipal de Cairu/BA",
-        "dataPublicacao": "2026-10-23T10:42:26",
-        "numeroControlePNCP": "14235907000144-1-000126/2026",
-        "linkSistemaOrigem": "sai.io.org.br/site/PublicadoPncp/172712?localConsulta=2&cod=1575"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE PARACATU",
-        "uf": "MG",
-        "municipio": "Paracatu",
-        "objeto": "CHAMADA PÚBLICA PARA O CREDENCIAMENTO DE LABORATÓRIOS ESPECIALIZADOS PARA A PRESTAÇÃO DE SERVIÇOS DE CONFECÇÃO DE PRÓTESES DENTÁRIAS, DESTINADOS AO ATENDIMENTO DOS USUÁRIOS DA REDE MUNICIPAL DE SAÚDE BUCAL DO MUNICÍPIO DE PARACATU-MG",
-        "dataPublicacao": "2026-10-23T10:43:36",
-        "numeroControlePNCP": "18278051000145-1-000290/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SALINAS DA MARGARIDA",
-        "uf": "BA",
-        "municipio": "Salinas da Margarida",
-        "objeto": "Credenciamento de pessoas jurídicas interessadas em firmar acordos de patrocínios, não exclusivos, para apoio ao Festival de Salinas, a ser realizado no período de 20 a 22 de novembro de 2026, no Município de Salinas da Margarida, conforme condições e exigências estabelecidas neste instrumento e anexos.",
-        "dataPublicacao": "2026-10-23T11:00:28",
-        "numeroControlePNCP": "13743281000114-1-000095/2026",
-        "linkSistemaOrigem": "sai.io.org.br/site/PublicadoPncp/172715?localConsulta=2&cod=1850"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SAO JOSE DO EGITO",
-        "uf": "PE",
-        "municipio": "São José do Egito",
-        "objeto": "[Portal de Compras Públicas] - Contratação de Profissional e/ou Empresa Especializada para prestação de serviços de Locação de Veículo para Transporte Escolar da Rede Municipal de Ensino, por período de 12 (doze) meses, visando atender a Secretaria Municipal de Educação de São José do Egito/PE",
-        "dataPublicacao": "2026-10-23T11:05:05",
-        "numeroControlePNCP": "11354180000126-1-000141/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/PE/Prefeitura-Municipal-de-Sao-Jose-do-Egito-4919/CRED-018-2026-2026-520739"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE EDUCACAO DE GOIANDIRA - FME",
-        "uf": "GO",
-        "municipio": "Goiandira",
-        "objeto": "ABERTURA DE CHAMADA PUBLICA,  PARA AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS ORIUNDOS DA AGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR RURAL, DESTINADOS AO ATENDIMENTO DO PROGRAMA DE ALIMENTAÇÃO ESCOLAR- PNAE, PARA FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR AOS ALUNOS MATRICULADOS NA REDE MUNICIPAL DE ENSINO, PARA MANUTENÇÃO DAS ATIVIDADES DA MERENDA ESCOLAR",
-        "dataPublicacao": "2026-10-23T11:13:30",
-        "numeroControlePNCP": "44616474000138-1-000098/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE JARDIM",
-        "uf": "MS",
-        "municipio": "Jardim",
-        "objeto": "Credenciamento de empresas especializadas na prestação de serviços de serralheria, por hora trabalhada, para fabricação, instalação, manutenção e reparo de estruturas e componentes metálicos, incluindo serviços de soldagem e acabamento, destinados ao atendimento, sob demanda, das necessidades das diversas Secretarias do Município de Jardim/MS.",
-        "dataPublicacao": "2026-10-23T11:19:02",
-        "numeroControlePNCP": "03162047000140-1-000059/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE ARAPUTANGA",
-        "uf": "MT",
-        "municipio": "Araputanga",
-        "objeto": "[LICITANET] - seleção de empresa do ramo da construção civil visando à formalização de parceria mediante Concessão de Direito Real de Uso Resolúvel – CDRU de terreno público municipal de ARAPUTANGA/MT, para desenvolvimento e produção de empreendimento habitacional enquadrado no Programa Minha Casa, Minha Vida – PMCMV, com recursos do FGTS, em conjunto com o Programa SER Família Habitação – Entrada Facilitada, instituído pela Lei Estadual nº 11.587/2021 e regulamentado pelo Decreto Estadual nº 371/2023, Lei Federal nº 14.620/2023 e Portaria MCID nº 1.295/2023, e alterações.",
-        "dataPublicacao": "2026-10-23T11:29:30",
-        "numeroControlePNCP": "15023914000145-1-000064/2026",
-        "linkSistemaOrigem": "https://licitanet.com.br/sessao/205838"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE SAUDE",
-        "uf": "MS",
-        "municipio": "Bataguassu",
-        "objeto": "Credenciamento de pessoas jurídicas sem qualquer exclusividade para consultas médicas especializadas, exames diagnósticos, procedimentos médicos especializados, plantões médicos e demais serviços assistenciais correlatos, na hipótese paralela e não excludente, no município de Bataguassu-MS, conforme condições e exigência estabelecidas no Termo de Referência.",
-        "dataPublicacao": "2026-10-23T11:30:12",
-        "numeroControlePNCP": "10836939000144-1-000051/2026",
-        "linkSistemaOrigem": "http://45.182.157.6:8079/transparencia/"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE AGUAS VERMELHAS",
-        "uf": "MG",
-        "municipio": "Águas Vermelhas",
-        "objeto": "Credenciamento de pessoa jurídica especializada para a prestação de serviços de realização de exames laboratoriais, destinados ao atendimento dos pacientes das unidades de saúde do Município de Águas VermelhasMG",
-        "dataPublicacao": "2026-10-23T11:34:09",
-        "numeroControlePNCP": "18414581000173-1-000078/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE NOVA ROMA DO SUL",
-        "uf": "RS",
-        "municipio": "Nova Roma do Sul",
-        "objeto": "PRESTACAO DE SERVICO DE BORRACHARIA",
-        "dataPublicacao": "2026-10-23T11:36:00",
-        "numeroControlePNCP": "91110296000159-1-000198/2026",
-        "linkSistemaOrigem": " "
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE JAGUARAO",
-        "uf": "RS",
-        "municipio": "Jaguarão",
-        "objeto": "[Portal de Compras Públicas] - Contratação de clínicas veterinárias para procedimento de castração e esterilização de animais, implantação de microchip permanente e cadastramento no SinPatinhas.",
-        "dataPublicacao": "2026-10-23T11:38:19",
-        "numeroControlePNCP": "88414552000197-1-000286/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Jaguarao-475/CRED-07-2026-2026-520766"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE PERDOES",
-        "uf": "MG",
-        "municipio": "Perdões",
-        "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE REFEIÇÕES PRONTAS, NAS MODALIDADES MARMITEX E SELF-SERVICE, DESTINADAS AO ATENDIMENTO DAS NECESSIDADES DAS SECRETARIAS DO MUNICÍPIO DE PERDÕES/MG",
-        "dataPublicacao": "2026-10-23T11:42:17",
-        "numeroControlePNCP": "18244343000167-1-000149/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SAO JOAO",
-        "uf": "PE",
-        "municipio": "São João",
-        "objeto": "Prestação de serviços técnicos especializados para concepção, planejamento, regulamentação, organização, condução e consolidação documental de processo seletivo destinado às funções de Coordenador Pedagógico e Inspetor de Ensino da Rede Municipal de São João/PE",
-        "dataPublicacao": "2026-10-23T11:56:56",
-        "numeroControlePNCP": "10146371000130-1-000026/2026",
-        "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]hdg3WsCa3PJqx6TaLG3XIFknm9mn2EZtZ2QbGjM5ooOX904K72YP71w6LTuSjhCJmjR0U1BRGa0IxT5c/3wrWEQ6kUKrEOQcOJ9X76tKLGQ="
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CAMAQUA",
-        "uf": "RS",
-        "municipio": "Camaquã",
-        "objeto": "\n\n\n\ncontratação de empresa do ramo da construção\n civil para elaboração de projeto e construção de unidades habitacionais de interesse social, destinadas ao público-alvo definido para o Programa Minha Casa, Minha Vida.",
-        "dataPublicacao": "2026-10-23T12:11:18",
-        "numeroControlePNCP": "88696810000175-1-000227/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE SAUDE DE RIACHO DAS ALMAS",
-        "uf": "PE",
-        "municipio": "Riacho das Almas",
-        "objeto": "Credenciar pessoas jurídicas de direito privado, preferencialmente sem fins lucrativos, interessadas em prestar serviços de assistência à saúde de baixa, média e alta complexidade, de forma complementar, para atendimento da demanda do Município de RIACHO DAS ALMAS-PE, conforme especificado no Termo de Referência.",
-        "dataPublicacao": "2026-10-23T12:15:07",
-        "numeroControlePNCP": "10939000000105-1-000005/2026",
-        "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]07Hd0NOorftoiolLGbiGqbHkrfMZpJtPDpo6QyHBy62ejkBrZmreEK4Cu2o7WSA7Vk_H2Kf9i/pLgVplsNLbEFurf22fQ8ZLsTLss55100Y="
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "ESTADO DE MATO GROSSO",
-        "uf": "MT",
-        "municipio": "Cuiabá",
-        "objeto": "CHAMAMENTO PÚBLICO - Prospecção do mercado imobiliário para locação de imóvel com a finalidade de abrigar a 17° CIPM - Vila Operária de Rondonópolis/MT.",
-        "dataPublicacao": "2026-10-23T12:21:51",
-        "numeroControlePNCP": "03507415002864-1-000185/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE GUANAMBI",
-        "uf": "BA",
-        "municipio": "Guanambi",
-        "objeto": "CREDENCIAMENTO DE PROFISSIONAL MÉDICO CLINICO GERAL, PESSOAS FÍSICAS/JURÍDICAS, COM OBJETIVO DE ATENDER A DEMANDA RELACIONADA À APLICAÇÃO DA LEI MUNICIPAL N° 1677 DE 05 DE SETEMBRO DE 2024, QUE DISPÕE SOBRE A REDUÇÃO DE CARGA HORÁRIA DOS SERVIDORES.",
-        "dataPublicacao": "2026-10-23T12:34:36",
-        "numeroControlePNCP": "13982640000196-1-000152/2026",
-        "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]OmYyqiTBAiZOsNq2rjdaQZI25DaYeiueuHmBQcYLNq4V2et0lqZPhQE3es_MrEljaO7emga7LIhHeR07Z_XaL5jyKKi20Z1GwyuPcYeUCZE="
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE PARACATU",
-        "uf": "MG",
-        "municipio": "Paracatu",
-        "objeto": "CHAMADA PÚBLICA PARA O CREDENCIAMENTO DE LABORATÓRIOS ESPECIALIZADOS PARA A PRESTAÇÃO DE SERVIÇOS DE CONFECÇÃO DE PRÓTESES DENTÁRIAS, DESTINADOS AO ATENDIMENTO DOS USUÁRIOS DA REDE MUNICIPAL DE SAÚDE BUCAL DO MUNICÍPIO DE PARACATU-MG\r\n\r\n",
-        "dataPublicacao": "2026-10-23T13:48:20",
-        "numeroControlePNCP": "18278051000145-1-000291/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE ATILIO VIVACQUA",
-        "uf": "ES",
-        "municipio": "Atílio Vivácqua",
-        "objeto": "CREDENCIAMENTO DE INSTITUIÇÕES FINANCEIRAS DO TIPO COOPERATIVAS DE CRÉDITO, AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL DO BRASIL, PARA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS, DE DEPÓSITOS BANCÁRIOS, APLICAÇÕES FINANCEIRAS, ABERTURA, MOVIMENTAÇÃO, MANUTENÇÃO E ENCERRAMENTO DE CONTAS CORRENTES BANCÁRIAS, RECEBIMENTO DE TRIBUTOS MUNICIPAIS E DEMAIS RECEITAS MUNICIPAIS POR MEIO DE COMPENSAÇÃO BANCÁRIA, INCLUSIVE POR CANAIS DIGITAIS (PIX, QR CODE E CÓDIGO DE BARRAS).",
-        "dataPublicacao": "2026-10-23T13:50:19",
-        "numeroControlePNCP": "27165620000137-1-000099/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE ITAPOA",
-        "uf": "SC",
-        "municipio": "Itapoá",
-        "objeto": "Credenciamento de pessoas jurídicas especializadas para a prestação de serviços de análises clínicas, compreendendo a realização de exames laboratoriais aos usuários do Sistema Único de Saúde - SUS, conforme os procedimentos previstos na Tabela SIGTAP.",
-        "dataPublicacao": "2026-10-23T13:52:37",
-        "numeroControlePNCP": "11485410000196-1-000009/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Manifestação de Interesse",
-        "orgao": "ESTADO DO ACRE",
-        "uf": "AC",
-        "municipio": "Rio Branco",
-        "objeto": "Prestação de serviços de telecomunicações para fornecimento de link de acesso à internet, por meio terrestre, com equipamentos em regime de comodato, para atendimento de unidades da Secretaria de Estado de Justiça e Segurança Pública – SEJUSP e do Sistema Integrado de Segurança Pública do Acre – SISP/AC situadas na zona urbana dos municípios indicados na Tabela 1, pelo período de 24 (vinte e quatro) meses.",
-        "dataPublicacao": "2026-10-23T13:54:10",
-        "numeroControlePNCP": "63606479000124-1-000600/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE SAUDE",
-        "uf": "SC",
-        "municipio": "Taió",
-        "objeto": "CREDENCIAMENTO DE GABRIELE DE SOUZA SILVA, PARA PRESTAÇÃO DE SERVIÇOS DE PSICOLOGIA, EM REFERÊNCIA AO PROCESSO LICITATÓRIO N.º 11/2026",
-        "dataPublicacao": "2026-10-23T14:08:41",
-        "numeroControlePNCP": "11433441000101-1-000057/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SCHROEDER",
-        "uf": "SC",
-        "municipio": "Schroeder",
-        "objeto": "[Portal de Compras Públicas] - Constitui objeto do presente credenciamento de Empresa de Serviços de Conservação de Energia – ESCO para celebrar termos de compromisso a fim de representar o Município de Schroeder em Chamadas Públicas de Projetos – CPP, em Regime de Contrato de Risco junto às concessionárias e permissionárias de energia elétrica.",
-        "dataPublicacao": "2026-10-23T14:09:26",
-        "numeroControlePNCP": "83102491000109-1-000486/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Schroeder-2914/CRED-01-2026-2026-520849"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE POCO FUNDO",
-        "uf": "MG",
-        "municipio": "Poço Fundo",
-        "objeto": "Credenciamento para contratação de profissional para prestação de serviços para operar as máquinas pesadas que compõem a Secretaria Municipal de Obras e Serviços Públicos Urbanos e Rurais e Secretaria Municipal de Agricultura e Meio Ambiente, conforme descrito no edital",
-        "dataPublicacao": "2026-10-23T14:11:41",
-        "numeroControlePNCP": "18242792000176-1-000178/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONOMICO E MEIO AMBIENTE",
-        "uf": "TO",
-        "municipio": "Gurupi",
-        "objeto": "CREDENCIAMENTO PERMANENTE DE INTERESSADOS PARA FUTURA OUTORGA DE PERMISSAO ONEROSA DE USO DE QUIOSQUES, LANCHONETES E ESPACOS COMERCIAIS LOCALIZADOS EM PRACAS PUBLICAS MUNICIPAIS - PRACA DO BELA VISTA/NOVA FRONTEIRA E PRACA DO JARDIM DOS BURITIS  (PROCESSO ORIGINARIO: 2026102323003) ",
-        "dataPublicacao": "2026-10-23T14:18:05",
-        "numeroControlePNCP": "17718507000188-1-000009/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CAMPO MOURAO",
-        "uf": "PR",
-        "municipio": "Campo Mourão",
-        "objeto": "Aquisição de gêneros alimentícios provenientes da Agricultura Familiar, por meio de Chamada Pública, para atendimento ao Programa Nacional de Alimentação Escolar (PNAE) das Escolas e Centros Municipais de Educação Infantil (CMEIs) da Rede Municipal de Ensino de Campo Mourão, ao longo do ano de 2027 - SECED",
-        "dataPublicacao": "2026-10-23T14:40:22",
-        "numeroControlePNCP": "75904524000106-1-000426/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SEARA",
-        "uf": "SC",
-        "municipio": "Seara",
-        "objeto": "CREDENCIAMENTO PARA FORNECIMENTO DE REFEIÇÕES PRONTAS COM PESO MÍNIMO INDIVIDUAL DE 850 (OITOCENTOS E CINQUENTA) GRAMAS, PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SEARA.",
-        "dataPublicacao": "2026-10-23T14:41:11",
-        "numeroControlePNCP": "83024505000113-1-000291/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CONCEICAO DE IPANEMA",
-        "uf": "MG",
-        "municipio": "Conceição de Ipanema",
-        "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS PLANTONISTAS PRESENCIAIS E DE REMOÇÃO/TRANSFERÊNCIA INTER HOSPITALAR DE PACIENTES, A FIM DE ATENDER ÀS NECESSIDADES DE ATENDIMENTO DE URGÊNCIA, EMERGÊNCIA E SUPORTE À REDE MUNICIPAL DE SAÚDE DE CONCEIÇÃO DE IPANEMA/MG.",
-        "dataPublicacao": "2026-10-23T14:57:16",
-        "numeroControlePNCP": "18334300000172-1-000069/2026",
-        "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]AfKYNekBbhoI23Fr9Zub1/HIvh/P61EFXcxxJRA7xMTaLTsUglyVgJSjh_UocgPYdHo2Ip1EKygLMSPoSCGKX5lytOe7YpLpATp/xh47/uE="
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SEARA",
-        "uf": "SC",
-        "municipio": "Seara",
-        "objeto": "CREDENCIAMENTO PARA FORNECIMENTO DE REFEIÇÕES PRONTAS COM PESO MÍNIMO INDIVIDUAL DE 850 (OITOCENTOS E CINQUENTA) GRAMAS, PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SEARA.",
-        "dataPublicacao": "2026-10-23T14:58:04",
-        "numeroControlePNCP": "83024505000113-1-000292/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE DOM BASILIO",
-        "uf": "BA",
-        "municipio": "Dom Basílio",
-        "objeto": "CREDENCIAMENTO DE MICROEMPREENDEDORES INDIVIDUAIS (MEIs) INTERESSADOS EM PRESTAR SERVIÇOS NÃO CONTINUADOS, SEM DEDICAÇÃO DE MÃO DE OBRA EXCLUSIVA, PARA EXECUÇÃO DE SERVIÇOS DE PEDREIRO, AJUDANTE, CARPINTEIRO E ENCANADOR, DESTINADOS À REALIZAÇÃO DE PEQUENOS REPAROS NO ANEXO DO CENTRO EDUCACIONAL DE TEMPO INTEGRAL SANTA LUZIA, CENTRO EDUCACIONAL DE TEMPO INTEGRAL SÃO CRISTÓVÃO, CRECHE FRANCISCO SANTANA (ALGODÕES), CRECHE ANTÔNIO RIBEIRO DOS SANTOS (VÁRZEA FUNDA), CRECHE JOSÉ CAIRES ARAÚJO (SALOBO) E CENTRO EDUCACIONAL DE TEMPO INTEGRAL PADRE MANOEL OLÍMPIO, NO MUNICÍPIO DE DOM BASÍLIO – BA.",
-        "dataPublicacao": "2026-10-23T15:00:11",
-        "numeroControlePNCP": "13673314000105-1-000171/2026",
-        "linkSistemaOrigem": "www.comprasnet.gov.br"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE CRATO",
-        "uf": "CE",
-        "municipio": "Crato",
-        "objeto": "CONTRATAÇÃO DE INSTITUIÇÕES ESPECIALIZADAS PARA A PRESTAÇÃO DE SERVIÇOS DE AVALIAÇÃO, CONFECÇÃO, ADAPTAÇÃO, FORNECIMENTO, MANUTENÇÃO E ACOMPANHAMENTO DE APARELHOS AUDITIVOS PARA ATENDER AS NECESSIDADES DA SECRETARIA DA SAÚDE DO MUNICÍPIO DO CRATO/CE.",
-        "dataPublicacao": "2026-10-23T15:01:50",
-        "numeroControlePNCP": "07587975000107-1-000001/2027",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SANTO ESTEVAO",
-        "uf": "BA",
-        "municipio": "Santo Estêvão",
-        "objeto": "Credenciamento de profissionais para prestação de serviços de corte de cabelo masculino, corte de cabelo feminino e limpeza de pele simples, a serem executados no âmbito das ações do Programa SEMAS Itinerante do Município de Santo Estêvão/BA, conforme exigências estabelecidas no Edital e seus anexos.",
-        "dataPublicacao": "2026-10-23T15:07:38",
-        "numeroControlePNCP": "14042667000161-1-000184/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SOBRAL",
-        "uf": "CE",
-        "municipio": "Sobral",
-        "objeto": "[LICITANET] - SELEÇÃO DE 01 (UMA) ORGANIZAÇÃO DA SOCIEDADE CIVIL PARA CELEBRAÇÃO DE TERMO DE COLABORAÇÃO COM O MUNICÍPIO DE SOBRAL, POR INTERMÉDIO DA SECRETARIA DA JUVENTUDE E CULTURA (SEJUC), VISANDO O PLANEJAMENTO, À ORGANIZAÇÃO, À COORDENAÇÃO E À EXECUÇÃO DO PROGRAMA DE FORMAÇÃO CULTURAL DE SOBRAL",
-        "dataPublicacao": "2026-10-23T15:15:33",
-        "numeroControlePNCP": "07598634000137-1-000167/2026",
-        "linkSistemaOrigem": "https://licitanet.com.br/sessao/205877"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "CONSORCIO METROPOLITANO DE SAUDE DO PARANA - COMESP",
-        "uf": "PR",
-        "municipio": "Curitiba",
-        "objeto": "CREDENCIAMENTO de Pessoas Jurídicas especializadas na prestação de serviços de saúde, para disponibilização de profissionais médicos generalistas, enfermeiros e técnicos de enfermagem, destinados ao reforço das equipes assistenciais durante a Operação Verão 2026/2027, nos Municípios de Guaratuba, Matinhos e Pontal do Paraná, no período de 19/12/26 a 15/02/2027, conforme termo de referência, Anexo I do Edital.",
-        "dataPublicacao": "2026-10-23T15:17:57",
-        "numeroControlePNCP": "08061295000118-1-000192/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE IPIRANGA DO NORTE",
-        "uf": "MT",
-        "municipio": "Ipiranga do Norte",
-        "objeto": "Credenciamento de pessoas físicas ou jurídicas habilitadas para a prestação, sob demanda, de serviços técnicos de avaliação de imóveis rurais, com elaboração e emissão de laudos técnicos destinados à instrução dos processos administrativos de ITBI do município de Ipiranga do Norte – MT",
-        "dataPublicacao": "2026-10-23T15:37:09",
-        "numeroControlePNCP": "07209245000172-1-000089/2026",
-        "linkSistemaOrigem": "https://transparencia.agilicloud.com.br/ipiranganorte/licitacoes/licitacao?id=3220"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE PIRANGA",
-        "uf": "MG",
-        "municipio": "Piranga",
-        "objeto": "CREDENCIAMENTO DE EMPRESAS PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS DE CONSULTAS NA ESPECIALIDADE DE ANGIOLOGIA, EXAMES E PROCEDIMENTOS.",
-        "dataPublicacao": "2026-10-23T15:39:30",
-        "numeroControlePNCP": "23515687000101-1-000206/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE DO LITORAL DO PARANA - CISLIPA",
-        "uf": "PR",
-        "municipio": "Paranaguá",
-        "objeto": "Credenciamento de pessoas jurídicas para locação temporária de ambulâncias de Suporte Básico, Tipo B (Bravo), destinadas ao atendimento das necessidades operacionais do SAMU Litoral 192 e municípios consorciados do CISLIPA, em dois lotes: locação de veículo sem condutor e insumos; e locação integrada com condutor habilitado, técnico de enfermagem e fornecimento dos insumos previstos, conforme demanda e condições estabelecidas no edital e Termo de Referência.",
-        "dataPublicacao": "2026-10-23T15:56:12",
-        "numeroControlePNCP": "13681884000139-1-000002/2027",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE ITAGUAI",
-        "uf": "RJ",
-        "municipio": "Itaguaí",
-        "objeto": "Edital de Chamamento Público - Realização de procedimento de Chamamento Público para seleção de 02 (dois) projetos de Pontos de Cultura, visando ao fomento de projetos culturais continuados, mediante celebração de Termo de Compromisso Cultural e repasse de recursos financeiros, no âmbito da Política Nacional Aldir Blanc de Fomento à Cultura e da Política Nacional de Cultura Viva.",
-        "dataPublicacao": "2026-10-23T15:59:54",
-        "numeroControlePNCP": "29138302000102-1-000270/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE MARCELANDIA",
-        "uf": "MT",
-        "municipio": "Marcelândia",
-        "objeto": "CREDENCIAMENTO DE EMPRESAS ESPECIALIZADAS PARA PRESTAÇÃO DE SERVIÇOS DE APLICAÇÃO DE PELÍCULAS DE PROTEÇÃO SOLAR EM PRÉDIOS PÚBLICOS E VEÍCULOS DO MUNICÍPIO, BEM COMO SERVIÇOS DE CONFECÇÃO E CÓPIA DE CHAVES PARA ATENDIMENTO DAS DEMANDAS DAS DIVERSAS SECRETARIAS MUNICIPAIS DE MARCELÂNDIA – MT.",
-        "dataPublicacao": "2026-10-23T16:07:40",
-        "numeroControlePNCP": "03238987000175-1-000103/2026",
-        "linkSistemaOrigem": "https://transparencia.agilicloud.com.br/prefmarcelandia/licitacoes/licitacao?id=30721"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV",
-        "uf": "PA",
-        "municipio": "Belém",
-        "objeto": "Aquisição de Conjuntos de Circulação Extracorpórea (CEC) com comodato das máquinas, utilizados em Cirurgias Cardíacas, por um período de 12 meses na Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna (FPEHCGV).",
-        "dataPublicacao": "2026-10-23T16:17:28",
-        "numeroControlePNCP": "22980973000177-1-000221/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE",
-        "uf": "PR",
-        "municipio": "Pato Branco",
-        "objeto": "Chamamento Público nº 001/2023 - Credenciamento de pessoas jurídicas para a realização de terapias.",
-        "dataPublicacao": "2026-10-23T16:22:01",
-        "numeroControlePNCP": "00136858000188-1-000260/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
-        "uf": "GO",
-        "municipio": "Buritinópolis",
-        "objeto": "CHAMADA PÚBLICA para aquisição de gêneros alimentícios da Agricultura Familiar e do Empreendedor Familiar Rural, destinado ao atendimento do Programa Nacional de Alimentação Escolar – PNAE.",
-        "dataPublicacao": "2026-10-23T16:26:39",
-        "numeroControlePNCP": "44605782000168-1-000007/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE BURITINOPOLIS",
-        "uf": "GO",
-        "municipio": "Buritinópolis",
-        "objeto": "CREDENCIAMENTO, de empresa(s) aptas legalmente para a serviços de instalação e manutenção de ar condicionado e equipamentos de refrigeração em geral, atendendo as necessidades da Prefeitura  Municipal de Buritinópolis –Go",
-        "dataPublicacao": "2026-10-23T16:28:29",
-        "numeroControlePNCP": "24856569000111-1-000162/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE IVAIPORA",
-        "uf": "PR",
-        "municipio": "Ivaiporã",
-        "objeto": "CREDENCIAMENTO DE ARTISTAS DA ÁREA DA MÚSICA PARA O PALCO CULTURAL DA 22ª EXPOVALE",
-        "dataPublicacao": "2026-10-23T16:30:57",
-        "numeroControlePNCP": "75741330000137-1-000373/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE BELMONTE",
-        "uf": "SC",
-        "municipio": "Belmonte",
-        "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO DE ARTISTAS, MÚSICOS E PROFISSIONAIS DO SETOR MUSICAL, NAS CATEGORIAS CANTOR(A) SOLO, DUPLA/TRIO MUSICAL, BANDA/GRUPO E DJ LOCAIS E REGIONAIS, PARA A PRESTAÇÃO DE SERVIÇOS DE APRESENTAÇÕES ARTÍSTICO-MUSICAIS DESTINADAS AO ATENDIMENTO DA PROGRAMAÇÃO DE EVENTOS, FESTIVIDADES, ATIVIDADES CULTURAIS E DEMAIS AÇÕES PROMOVIDAS OU APOIADAS PELO MUNICÍPIO DE BELMONTE/SC, conforme descritos no Termo de Referência deste edital.",
-        "dataPublicacao": "2026-10-23T16:34:55",
-        "numeroControlePNCP": "80912108000190-1-000126/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Belmonte-1545/CRED-60-2026-2026-520836"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE ARVOREDO",
-        "uf": "SC",
-        "municipio": "Arvoredo",
-        "objeto": "CHAMADA PÚBLICA PARA PRESTAÇÃO DE SERVIÇOS DE SAÚDE NAS ÁREAS DE ASSISTÊNCIA E ATENDIMENTO MÉDICO EM REGIME AMBULATORIAL OU HOSPITALAR, DE SERVIÇOS AUXILIARES DE DIAGNÓSTICO E TERAPIA, COMPLEMENTANDO OS SERVIÇOS DE SAÚDE OFERTADOS PELA REDE DE SAÚDE PÚBLICA AOS USUÁRIOS DO SISTEMA ÚNICO DE SAÚDE - SUS DO MUNICÍPIO DE ARVOREDO/SC.",
-        "dataPublicacao": "2026-10-23T16:36:26",
-        "numeroControlePNCP": "95995247000100-1-000171/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE IVAIPORA",
-        "uf": "PR",
-        "municipio": "Ivaiporã",
-        "objeto": "SELEÇÃO DE APRESENTAÇÕES ARTÍSTICAS AMADORAS PARA MOSTRA DE TALENTOS LOCAL DA 22ª EXPOVALE",
-        "dataPublicacao": "2026-10-23T16:39:55",
-        "numeroControlePNCP": "75741330000137-1-000374/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE ITAPIRANGA",
-        "uf": "SC",
-        "municipio": "Itapiranga",
-        "objeto": "CHAMAMENTO PÚBLICO PARA A HABILITAÇÃO DE EMPRESA DA CONSTRUÇÃO CIVIL, COM COMPROVADA CAPACIDADE TÉCNICA E FINANCEIRA, INTERESSADA EM MANIFESTAR INTERESSE E APRESENTAR PROPOSTA À CAIXA ECONÔMICA FEDERAL PARA O DESENVOLVIMENTO E CONSTRUÇÃO DE EMPREENDIMENTO HABITACIONAL DE INTERESSE SOCIAL, UTILIZANDO RECURSOS NO ÂMBITO DO PROGRAMA MINHA CASA, MINHA VIDA (PMCMV), EM TERRENO DE PROPRIEDADE DO MUNICÍPIO",
-        "dataPublicacao": "2026-10-23T16:42:22",
-        "numeroControlePNCP": "82821208000136-1-000226/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE SAUDE DE CAMBORIU",
-        "uf": "SC",
-        "municipio": "Camboriú",
-        "objeto": "CHAMAMENTO DE INTERESSADOS PARA CREDENCIAMENTO, A FIM DE CONTRATAÇÃO PARALELA E NÃO EXCLUDENTE DE CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS DE SAÚDE - ENGLOBANDO CONSULTAS MÉDICAS PRÉ E PÓS-OPERATÓRIAS COM CIRURGIÕES ESPECIALISTAS, E PROCEDIMENTOS CIRÚRGICOS ELETIVOS PARA ATENDIMENTO CONTINUADO AOS USUÁRIOS DO SISTEMA ÚNICO DE SAÚDE (SUS) REGULADOS PELA SECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE CAMBORIÚ/SC, CONFORME ESTUDO TÉCNICO PRELIMINAR E TERMO DE REFEREÊNCIA",
-        "dataPublicacao": "2026-10-23T16:47:28",
-        "numeroControlePNCP": "11312860000187-1-000073/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "FUNDO MUNICIPAL DE SAUDE DE BURITINOPOLIS",
-        "uf": "GO",
-        "municipio": "Buritinópolis",
-        "objeto": "CREDENCIAMENTO PARA CADASTRAMENTO DE EMPRESA ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS DE SAÚDE, COMPREENDENDO A REALIZAÇÃO DE EXAMES POR IMAGEM, CONSULTAS MÉDICAS ESPECIALIZADAS, DESTINADOS AS AÇÕES DO OUTUBRO ROSA E NOVEMBRO AZUL COM RASTREIO DO CÂNCER DE MAMA E CÂNCER DE PRÓSTATA, PARA ATENDIMENTO DOS USUÁRIOS DO SISTEMA ÚNICO DE SAÚDE – SUS, POR INTERMÉDIO DA SECRETARIA MUNICIPAL DE SAÚDE DE BURITINÓPOLIS/GO",
-        "dataPublicacao": "2026-10-23T16:51:06",
-        "numeroControlePNCP": "11534361000134-1-000057/2026",
-        "linkSistemaOrigem": null
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SAO TOMAS DE AQUINO",
-        "uf": "MG",
-        "municipio": "São Tomás de Aquino",
-        "objeto": "Prestação de serviços em EXAMES LABORATORIAIS e URGENCIAS por credenciamento , à pacientes encaminhados pelo Departamento Municipal de Saúde, conforme PROPOSTA DE ADESÃO, representado pelo ANEXO I, a Prefeitura de São Tomás de Aquino.",
-        "dataPublicacao": "2026-10-23T16:51:29",
-        "numeroControlePNCP": "18241364000129-1-000212/2026",
-        "linkSistemaOrigem": ""
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE ITAPIRANGA",
-        "uf": "SC",
-        "municipio": "Itapiranga",
-        "objeto": "[Portal de Compras Públicas] - CHAMAMENTO PÚBLICO PARA A HABILITAÇÃO DE EMPRESA DA CONSTRUÇÃO CIVIL, COM COMPROVADA CAPACIDADE TÉCNICA E FINANCEIRA, INTERESSADA EM MANIFESTAR INTERESSE E APRESENTAR PROPOSTA À CAIXA ECONÔMICA FEDERAL PARA O DESENVOLVIMENTO E CONSTRUÇÃO DE EMPREENDIMENTO HABITACIONAL DE INTERESSE SOCIAL, UTILIZANDO RECURSOS NO ÂMBITO DO PROGRAMA MINHA CASA, MINHA VIDA (PMCMV), EM TERRENO DE PROPRIEDADE DO MUNICÍPIO.",
-        "dataPublicacao": "2026-10-23T16:53:19",
-        "numeroControlePNCP": "82821208000136-1-000227/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Itapiranga-271/CRED-136-2026-2026-520946"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE MATINA",
-        "uf": "BA",
-        "municipio": "Matina",
-        "objeto": "CREDENCIAMENTO DE ARTISTA LOCAIS E REGIONAIS PARA APRESENTAÇÃO NAS FESTIVIDADES DO MUNICÍPIO DE MATINA-BA.",
-        "dataPublicacao": "2026-10-23T17:11:16",
-        "numeroControlePNCP": "16417800000142-1-000098/2026",
-        "linkSistemaOrigem": "https://www.procede.api.br/publica/documentos/PR6PVFQ.6FGXG-20261023-163604--!--EDITAL_CREDENCIAMENTO_N_0022026_ARTISTA_LOCAL_E_REGIONAL.pdf"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE VALENCA DO PIAUI",
-        "uf": "PI",
-        "municipio": "Valença do Piauí",
-        "objeto": "[Portal de Compras Públicas] - Credenciamento de pessoas jurídicas prestadoras de serviços de saúde, para realização de consultas médicas especializadas e de exames e procedimentos diagnósticos de média e alta complexidade, de forma complementar à rede pública municipal, incluindo toda a estrutura operacional necessária à execução dos serviços, equipamentos, materiais, insumos, profissionais habilitados, emissão de laudos e disponibilização de estrutura física adequada, visando atender às necessidades da Secretaria Municipal de Saúde do Município de Valença do Piauí/PI e aos usuários do Sistema Único de Saúde - SUS.",
-        "dataPublicacao": "2026-10-23T17:24:20",
-        "numeroControlePNCP": "06554737000132-1-000050/2026",
-        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Valenca-do-Piaui-2228/CRED-004-2026-2026-520954"
-      },
-      {
-        "modalidade": "Credenciamento",
-        "orgao": "MUNICIPIO DE SIMOLANDIA",
-        "uf": "GO",
-        "municipio": "Simolândia",
-        "objeto": "CREDENCIAMENTO DE EMPRESAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS DE SAÚDE, COMPREENDENDO A REALIZAÇÃO DE EXAMES DE MÉDIA COMPLEXIDADE, CONSULTAS MÉDICAS E PROCEDIMENTOS DE SAÚDE, POR MEIO DE UNIDADES MÓVEIS EQUIPADAS E DOTADAS DE CONSULTÓRIOS, PARA ATENDIMENTO À POPULAÇÃO NAS CAMPANHAS DE PREVENÇÃO, PROMOÇÃO E ASSISTÊNCIA À SAÚDE, INCLUINDO OUTUBRO ROSA, NOVEMBRO AZUL E DEMAIS CAMPANHAS, AÇÕES E PROGRAMAS DE SAÚDE PROMOVIDOS PELO FUNDO MUNICIPAL DE SAÚDE DE SIMOLÂNDIA/GO.",
-        "dataPublicacao": "2026-10-23T18:49:59",
-        "numeroControlePNCP": "24855058000185-1-000237/2026",
+        "orgao": "MUNICIPIO DE NUPORANGA",
+        "uf": "SP",
+        "municipio": "Nuporanga",
+        "objeto": "EXAMES DE IMAGEM PARA DIAGNOSTICO CLINICO DE PACIENTES DEPTO. SAUDE",
+        "dataPublicacao": "2026-11-23T10:09:43",
+        "numeroControlePNCP": "46754388000117-1-000029/2026",
+        "linkSistemaOrigem": "http://181.191.10.193:8079/comprasedital/"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE SAO CARLOS",
+        "uf": "SP",
+        "municipio": "São Carlos",
+        "objeto": "Contratação do proponente GUILHERME COSTA ARRUDA, CPF: 454.420.928-51, para apresentação do projeto Solo Gui Arruda, selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no projeto \"Natal 2026 de São Carlos\", a ser realizado dia 29/11/2026, às 10h na Praça do Mercado Municipal.",
+        "dataPublicacao": "2026-11-23T10:21:26",
+        "numeroControlePNCP": "45358249000101-1-001206/2026",
         "linkSistemaOrigem": null
       },
       {
@@ -16909,6 +16049,226 @@
         "dataPublicacao": "2026-11-22T09:37:01",
         "numeroControlePNCP": "06314439000175-1-000041/2026",
         "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE ANISIO DE ABREU",
+        "uf": "PI",
+        "municipio": "Anísio de Abreu",
+        "objeto": "[Portal de Compras Públicas] - Credenciamento de Profissionais Médicos Plantonistas diurnos e noturnos, Pessoa Jurídica, Para Prestação dos Serviços de Atendimentos à Pacientes em Situação de Urgência e Emergência nas Unidades Básicas de Saúde e Hospital de Pequeno Porte - HPP, Através da Secretaria Municipal de Saúde do Município de Anísio de Abreu - PI",
+        "dataPublicacao": "2026-11-22T20:57:46",
+        "numeroControlePNCP": "06553630000170-1-000048/2026",
+        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Anisio-de-Abreu-4907/CRED-007-2026-2026-526937"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE MATUREIA",
+        "uf": "PB",
+        "municipio": "Maturéia",
+        "objeto": "[Portal de Compras Públicas] - Credenciamento para Aquisição parcelada de refeições prontas (quentinhas), destinadas às secretarias do município de Maturéia/PB.",
+        "dataPublicacao": "2026-11-22T23:02:11",
+        "numeroControlePNCP": "01612689000178-1-000071/2026",
+        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Matureia-3251/CRED-0005-2026-2026-526938"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE FLORANIA",
+        "uf": "RN",
+        "municipio": "Florânia",
+        "objeto": "CREDENCIAMENTO DE OFERTAS DE CUIDADOS INTEGRADOS (OCIS), PARA A AMPLIAÇÃO, QUALIFICAÇÃO E INTEGRAÇÃO DA PRESTAÇÃO DOS SERVIÇS DE SAÚDE NO MUNICIPAL DE FLORÂNIA",
+        "dataPublicacao": "2026-11-23T07:49:41",
+        "numeroControlePNCP": "08181562000190-1-000103/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE MORRINHOS",
+        "uf": "GO",
+        "municipio": "Morrinhos",
+        "objeto": "CREDENCIAMENTO DA PROFISSIONAL THAIS PEREIRA DE SOUZA, PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS EM ENFERMAGEM, COM RECURSO PRÓPRIO",
+        "dataPublicacao": "2026-11-23T08:07:31",
+        "numeroControlePNCP": "11870726000100-1-000465/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE GRAVATAL",
+        "uf": "SC",
+        "municipio": "Gravatal",
+        "objeto": "CONTRATAçãO DE EMPRESA ESPECIALIZADA PARA EXECUçãO DE SERVIçOS DE COLOCAçãO DE PAVER, EM UMA áREA DE 130 M², E INSTALAçãO\nDE MEIO-FIO, COM EXTENSãO DE 210 METROS LINEARES, PARA CONSTRUçãO DE CALçADA NO ENTORNO DAS CASAS DA FEIRA, LOCALIZADAS NA PRAçA\nDOS DIREITOS HUMANOS, VISANDO MELHORAR A ACESSIBILIDADE, A CIRCULAçãO E O CONFORTO DOS CLIENTES E VISITANTES DA FEIRA, ATENDENDO àS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE TURISMO.LOCAL: RUA HERCíLIO ZAPPELINI, BAIRRO TERMAS DO GRAVATAL, MUNICíPIO DE GRAVATAL, ESTADO DE SANTA CATARINA (SC).",
+        "dataPublicacao": "2026-11-23T08:18:26",
+        "numeroControlePNCP": "82926569000147-1-000204/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE GRAVATAL",
+        "uf": "SC",
+        "municipio": "Gravatal",
+        "objeto": "CONTRATAçãO DE EMPRESA ESPECIALIZADA NA FABRICAçãO E INSTALAçãO DE CALHAS E RUFOS, PARA O FORNECIMENTO E INSTALAçãO DE 02 (DUAS)\nCOIFAS, MEDINDO 60 X 55 CM, 02 (DOIS) METROS DE CANO PARA CHAMINé COM CHAPéU TIPO SPUTNIK, COM ACABAMENTO EM PINTURA ELETROSTáTICA,\nALéM DE 02 (DOIS) EXAUSTORES, VISANDO ATENDER àS NECESSIDADES DO MUNICíPIO.LOCAL DE EXECUçãO DO SERVIçO: RUA NúNCIO BEZ, BAIRRO\nLOMBA, GRAVATAL/SC.",
+        "dataPublicacao": "2026-11-23T08:18:38",
+        "numeroControlePNCP": "82926569000147-1-000205/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE CONCEICAO DO COITE",
+        "uf": "BA",
+        "municipio": "Conceição do Coité",
+        "objeto": "Credenciamento para prestacao de servicos de horas de maquina agricola trator de pneu equipados com arado no minimo de tres discos e grade niveladora no minimo de 24 discos operador e abastecimento por conta do fornecedor Para atender a secretaria de agricultura no preparo de solo dos agricultoresprodutores do municipio para o plantio de feijao milho e mandioca",
+        "dataPublicacao": "2026-11-23T08:21:05",
+        "numeroControlePNCP": "13843842000157-1-000220/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE PRESIDENTE GETULIO",
+        "uf": "SC",
+        "municipio": "Presidente Getúlio",
+        "objeto": "CREDENCIAMENTO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MÃO DE OBRA E LOCAÇÃO DE MATERIAL PARA USO NA DECORAÇÃO DE EVENTOS E ATIVIDADES PROMOVIDAS E/OU APOIADAS PELAS SECRETARIAS MUNICIPAIS",
+        "dataPublicacao": "2026-11-23T08:29:21",
+        "numeroControlePNCP": "83102434000120-1-000196/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE MORRINHOS",
+        "uf": "GO",
+        "municipio": "Morrinhos",
+        "objeto": "CREDENCIAMENTO DA PROFISSIONAL CLÁUDIA SILVA NASCIMENTO, PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ENFERMAGEM, COM RECURSO PRÓPRIO.",
+        "dataPublicacao": "2026-11-23T08:48:29",
+        "numeroControlePNCP": "11870726000100-1-000466/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE ITAUNA DO SUL",
+        "uf": "PR",
+        "municipio": "Itaúna do Sul",
+        "objeto": "Exames de análises clínicas, em caráter complementar ao SUS e ao Laboratório Municipal de Itaúna do Sul.",
+        "dataPublicacao": "2026-11-23T08:52:40",
+        "numeroControlePNCP": "75458836000133-1-000170/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "SECRETARIA DE ADMINISTRACAO",
+        "uf": "PE",
+        "municipio": "Afogados da Ingazeira",
+        "objeto": "Aquisição de Fornecimento de MOCHILAS ESCOLARES",
+        "dataPublicacao": "2026-11-23T09:01:15",
+        "numeroControlePNCP": "10572022000180-1-000772/2026",
+        "linkSistemaOrigem": "https://credencia.pe.gov.br/editais/39/detalhamento"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE MORRINHOS",
+        "uf": "GO",
+        "municipio": "Morrinhos",
+        "objeto": "CREDENCIAMENTO DA PROFISSIONAL CRYSTIANE BESSA DA SILVA BARRETO, PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ENFERMAGEM, COM RECURSO PRÓPRIO.",
+        "dataPublicacao": "2026-11-23T09:05:54",
+        "numeroControlePNCP": "11870726000100-1-000467/2026",
+        "linkSistemaOrigem": ""
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE GRAVATAL",
+        "uf": "SC",
+        "municipio": "Gravatal",
+        "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DE SERVIÇOS DE MANUTENÇÃO E REPARO DE PAREDES E ESTRUTURAS DA GARAGEM, INCLUINDO O FECHAMENTO DE TRÊS ABERTURAS EXISTENTES DESTINADAS À INSTALAÇÃO DE APARELHOS DE ARCONDICIONADO DE GAVETA, BEM COMO A\nREALIZAÇÃO DOS DEMAIS REPAROS NECESSÁRIOS À CONSERVAÇÃO E ADEQUAÇÃO DA ESTRUTURA, VISANDO GARANTIR MELHORES CONDIÇÕES DE\nSEGURANÇA, FUNCIONALIDADE E CONSERVAÇÃO DO ESPAÇO. LOCAL DE EXECUÇÃO DOS SERVIÇOS: RUA FRANCISCO KINDERMANN, Nº 001, CASA, BAIRRO\nCENTRO, GRAVATAL - SC.",
+        "dataPublicacao": "2026-11-23T09:08:15",
+        "numeroControlePNCP": "82926569000147-1-000206/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE MAE D'AGUA",
+        "uf": "PB",
+        "municipio": "Mãe d'Água",
+        "objeto": "[Portal de Compras Públicas] - Credenciamento visando futura e eventual contratação de serviços diversos (serviços de pedreiro, eletricista e pintor) visando atender a demanda no município de MÃE D´ÁGUA-PB.",
+        "dataPublicacao": "2026-11-23T09:09:05",
+        "numeroControlePNCP": "09084088000141-1-000088/2026",
+        "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Mae-DAgua-3009/CRED-007-2026-2026-526772"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE POCOS DE CALDAS",
+        "uf": "MG",
+        "municipio": "Poços de Caldas",
+        "objeto": "CREDENCIAMENTO DE PROPOSTAS ARTÍSTICO CULTURAIS PARA COMPOREM A PROGRAMAÇÃO OFICIAL DO CARNAVAL \n2027, A SER REALIZADO NO PERÍODO DE 05 A 09 DE FEVEREIRO DE 2027, NO MUNICÍPIO DE POÇOS DE CALDAS/MG - SECRETARIA MUNICIPAL DE TURISMO",
+        "dataPublicacao": "2026-11-23T09:36:40",
+        "numeroControlePNCP": "18629840000183-1-000201/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE NOVA FRIBURGO",
+        "uf": "RJ",
+        "municipio": "Nova Friburgo",
+        "objeto": "Chamada Pública para a Aquisição de GÊNEROS ALIMENTÍCIOS (HORTIFRUTIGRANJEIRO E POLPA DE FRUTA) ORIUNDOS DA AGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR RURAL PARA CONFECÇÃO DA MERENDA ESCOLAR nas Unidades Escolares da Rede Pública de Ensino, em atendimento ao Programa Nacional de Alimentação Escolar – PNAE, Lei nº 11.947/2009 e Lei nº 15.226/2025,\npara o alunado da rede municipal de educação, para atender as necessidades da Secretaria de\nEducação (SEDUC) no ano letivo de 2027.",
+        "dataPublicacao": "2026-11-23T09:47:47",
+        "numeroControlePNCP": "28606630000123-1-000166/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "ESTADO DO PIAUI",
+        "uf": "PI",
+        "municipio": "Teresina",
+        "objeto": "PROCESSO DE CHAMAMENTO PUBLICO PARA SELEQAO DE VERIFICADOR INDEPENDENTE QUE ATUARA NO COMPANHAMENTO DA EXECUQAO DO CONTRATO DE CONCESSAO DE USO DO PARQUE DE EXPOSIQAO GOVERNADOR DIRCEU ARCOVERDE.",
+        "dataPublicacao": "2026-11-23T10:06:10",
+        "numeroControlePNCP": "06553481000300-1-000030/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE CARIUS",
+        "uf": "CE",
+        "municipio": "Cariús",
+        "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DE REALIZAÇÃO DE EXAMES LABORATORIAIS DE ANÁLISES CLÍNICAS, DE ACORDO COM AS DIRETRIZES, NORMAS E VALORES DEFINIDOS PELAS PORTARIAS DO SISTEMA DE GERENCIAMENTO DA TABELA DE PROCEDIMENTOS, MEDICAMENTOS E OPM DO SUS (SIGTAP), E SERVIÇOS DE ELETROCARDIOGRAMA (ECG), VISANDO ATENDER À DEMANDA DA REDE MUNICIPAL DE SAÚDE DO MUNICÍPIO DE CARIÚS.",
+        "dataPublicacao": "2026-11-23T10:10:05",
+        "numeroControlePNCP": "07540180000143-1-000106/2026",
+        "linkSistemaOrigem": "http://www.licitacariusce.com.br"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE CARMO DO PARANAIBA",
+        "uf": "MG",
+        "municipio": "Carmo do Paranaíba",
+        "objeto": "[LICITANET] - CREDENCIAMENTO DE LEILOEIROS OFICIAIS, REGULARMENTE REGISTRADOS NA JUNTA COMERCIAL DO ESTADO DE MINAS GERAIS – JUCEMG, PARA EVENTUAL REALIZAÇÃO DE LEILÕES DE IMÓVEIS E BENS MÓVEIS INSERVÍVEIS DA PREFEITURA MUNICIPAL DE CARMO DO PARANAÍBA – MG, em conformidade com as condições, quantidades e exigências estabelecidas neste instrumento.\n",
+        "dataPublicacao": "2026-11-23T10:15:10",
+        "numeroControlePNCP": "18602029000109-1-000080/2026",
+        "linkSistemaOrigem": "https://licitanet.com.br/sessao/208577"
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE MARECHAL CANDIDO RONDON",
+        "uf": "PR",
+        "municipio": "Marechal Cândido Rondon",
+        "objeto": "Contratação de serviços de exames e plantões laboratoriais e epidemiológicos para atendimento aos pacientes e demandas da Secretaria Municipal de Saúde",
+        "dataPublicacao": "2026-11-23T10:18:50",
+        "numeroControlePNCP": "76205814000124-1-000319/2026",
+        "linkSistemaOrigem": null
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE ROLANDIA",
+        "uf": "PR",
+        "municipio": "Rolândia",
+        "objeto": "Credenciamento de empresas funerarias para a prestacao de servicos relacionados ao beneficio eventual de auxilio funeral  destinado ao atendimento de familias e individuos em situacao de vulnerabilidade social  no ambito da Secretaria Municipal de Assistencia Social de Rolandia PR.",
+        "dataPublicacao": "2026-11-23T10:20:03",
+        "numeroControlePNCP": "76288760000108-1-000347/2026",
+        "linkSistemaOrigem": " "
+      },
+      {
+        "modalidade": "Credenciamento",
+        "orgao": "MUNICIPIO DE CONFRESA",
+        "uf": "MT",
+        "municipio": "Confresa",
+        "objeto": "CREDENCIAMENTO DE PESSOAS JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS DE DECORAÇÃO, ORNAMENTAÇÃO, AMBIENTAÇÃO E PREPARAÇÃO DE ESPAÇOS PARA EVENTOS",
+        "dataPublicacao": "2026-11-23T10:23:36",
+        "numeroControlePNCP": "37464716000150-1-000108/2026",
+        "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ycwxuALfQQbpaMW1HMBB28JgFKvYmysgkkvxum7SolB44AajAQoAFrtY18sib/WI3acx/iONYboF8fxTFhjYw9tBRXctneUiyApwv1dKkbg="
       }
     ],
     "erros": []
